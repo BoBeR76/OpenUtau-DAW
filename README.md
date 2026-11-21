@@ -17,15 +17,15 @@
 
 ## Что это
 
-OpenUtau DAW — плагин для Cubase, который открывает редактор пения [OpenUtau](https://github.com/stakira/OpenUtau) прямо в окне плагина. Вокал пишется и звучит внутри проекта Cubase, без экспорта WAV туда-обратно.
+OpenUtau DAW — VST3/CLAP-плагин для Cubase, встраивающий редактор пения [OpenUtau](https://github.com/stakira/OpenUtau) в окно инструмента. Вокальная партия создаётся и воспроизводится непосредственно в проекте Cubase — без промежуточного экспорта в WAV.
 
-- 🎤 **OpenUtau в окне плагина.** Добавили Instrument-дорожку — и редактор уже там. Все окна OpenUtau (настройки, певцы, экспорт) открываются поверх него, а не отдельно.
-- ⏱ **Темп и размер из Cubase.** OpenUtau сам подстраивается под проект. Для смены темпа по ходу песни есть ARA-мост **OpenUtau DAW Bridge**.
-- ▶ **Общий транспорт.** Play, Stop и «в начало» в OpenUtau управляют Cubase.
-- 🎹 **Ноты туда и обратно.** MIDI-партию из Cubase можно перетащить в OpenUtau, а часть из OpenUtau — на дорожку Cubase. Нажатые на MIDI-клавиатуре ноты подсвечиваются в OpenUtau.
-- 👥 **Несколько голосов.** Каждая дорожка «OpenUtau DAW» — свой голос; «+» в OpenUtau добавляет дорожку и в Cubase. Есть 8 отдельных выходов.
-- 💾 **Всё сохраняется с проектом Cubase,** плюс 10 резервных копий вокала.
-- 🌍 **14 языков:** русский, English, українська, 日本語, español, Deutsch, français, italiano, português, polski, čeština, Türkçe, 简体中文, 한국어.
+- 🎤 **Встроенный редактор.** OpenUtau открывается в окне плагина Instrument-дорожки. Диалоговые окна OpenUtau (параметры, певцы, сообщения) отображаются поверх окна плагина.
+- ⏱ **Синхронизация темпа.** Темп и размер такта передаются из Cubase автоматически. Для проектов с переменным темпом предусмотрено ARA2-расширение **OpenUtau DAW Bridge**, передающее полную карту темпа.
+- ▶ **Единый транспорт.** Команды воспроизведения, остановки и возврата в начало из OpenUtau управляют транспортом Cubase.
+- 🎹 **Обмен MIDI.** Перенос MIDI-партий из Cubase в OpenUtau и обратно перетаскиванием, а также синхронизация нот при воспроизведении. Ноты, взятые на MIDI-клавиатуре, отображаются на клавиатуре пианоролла OpenUtau.
+- 👥 **Многоголосие.** Каждая дорожка «OpenUtau DAW» соответствует отдельной дорожке OpenUtau; имя и цвет синхронизируются. Для раздельного сведения доступны 8 дополнительных стерео-выходов.
+- 💾 **Сохранение в проекте.** Вокальная партия хранится вместе с проектом Cubase; автоматически ведутся 10 резервных копий.
+- 🌍 **Локализация.** 14 языков интерфейса: русский, English, українська, 日本語, español, Deutsch, français, italiano, português, polski, čeština, Türkçe, 简体中文, 한국어.
 
 | | |
 |---|---|
@@ -78,14 +78,15 @@ OpenUtau DAW не связан со Steinberg, Yamaha, Celemony или авто�
 
 ## English
 
-**OpenUtau DAW** puts the [OpenUtau](https://github.com/stakira/OpenUtau) singing editor right inside a Cubase plug-in window — like VOCALOID, but free.
+**OpenUtau DAW** is a VST3/CLAP plug-in for Cubase that embeds the [OpenUtau](https://github.com/stakira/OpenUtau) singing synthesis editor in the instrument window. Vocal parts are created and played back inside the Cubase project, with no intermediate WAV export.
 
-- OpenUtau opens inside the plug-in; all of its dialogs open over it, not as separate windows.
-- Follows Cubase's tempo and time signature; the **OpenUtau DAW Bridge** ARA extension handles tempo changes.
-- OpenUtau's Play / Stop / Home drive Cubase.
-- Drag MIDI parts from Cubase into OpenUtau and parts from OpenUtau back to Cubase; keys held on a MIDI keyboard light up in OpenUtau.
-- One voice per "OpenUtau DAW" track, 8 extra outputs, saved with the Cubase project plus 10 vocal backups.
-- 14 languages.
+- 🎤 **Embedded editor.** OpenUtau opens in the plug-in window of an Instrument track; its dialogs are shown over the plug-in window.
+- ⏱ **Tempo sync.** Tempo and time signature follow Cubase. For projects with tempo changes, the **OpenUtau DAW Bridge** ARA2 extension provides the full tempo map.
+- ▶ **Shared transport.** Play, Stop and Return to Start in OpenUtau control the Cubase transport.
+- 🎹 **MIDI exchange.** Drag MIDI parts between Cubase and OpenUtau in both directions, or sync notes during playback. Notes played on a MIDI keyboard are shown on the OpenUtau piano roll keys.
+- 👥 **Multiple voices.** Each "OpenUtau DAW" track maps to an OpenUtau track, with name and colour synced; 8 additional stereo outputs for separate mixing.
+- 💾 **Project storage.** The vocal is stored with the Cubase project, with 10 automatic backups.
+- 🌍 **Localization.** 14 interface languages.
 
 **Install:** download the installer from [Releases](../../releases/latest), close Cubase, run it, then add an Instrument track with **OpenUtau DAW**. Requires Windows 10/11 x64; tested with Cubase 15. **[📖 Full guide](docs/GUIDE-en.md)**.
 
