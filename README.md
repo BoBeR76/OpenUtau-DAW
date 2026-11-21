@@ -9,7 +9,9 @@
 ![Форматы](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Языки](https://img.shields.io/badge/языков-14-3aa7e0)
 
-[**⬇ Скачать установщик**](../../releases/latest) · [**📖 Инструкция**](docs/GUIDE.md) · [English](#english)
+[**⬇ Скачать установщик**](../../releases/latest) · [**📖 Инструкция**](docs/GUIDE.md)
+
+🌍 **Русский** · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
 
 ![OpenUtau в окне плагина Cubase](docs/cubase-pianoroll.png)
 
@@ -71,24 +73,5 @@ OpenUtau DAW бесплатен. Условия — в лицензионном 
 Исходный код частей под MPL-2.0 устанавливается вместе с программой в папку `source`. Полные тексты лицензий — в `THIRD-PARTY-NOTICES.txt`.
 
 OpenUtau DAW не связан со Steinberg, Yamaha, Celemony или авторами OpenUtau. Cubase и VST — товарные знаки Steinberg Media Technologies GmbH, ARA — Celemony Software GmbH. Голосовые банки распространяются их авторами на их условиях.
-
----
-
-<a name="english"></a>
-
-## English
-
-**OpenUtau DAW** puts the [OpenUtau](https://github.com/stakira/OpenUtau) singing editor right inside a Cubase plug-in window — like VOCALOID, but free.
-
-- OpenUtau opens inside the plug-in.
-- Follows Cubase's tempo and time signature; the **OpenUtau DAW Bridge** ARA extension handles tempo changes.
-- OpenUtau's Play / Stop / Home drive Cubase.
-- Drag MIDI parts from Cubase into OpenUtau and parts from OpenUtau back to Cubase; keys held on a MIDI keyboard light up in OpenUtau.
-- One voice per "OpenUtau DAW" track, 8 extra outputs, saved with the Cubase project plus 10 vocal backups.
-- 14 languages.
-
-**Install:** download the installer from [Releases](../../releases/latest), close Cubase, run it, then add an Instrument track with **OpenUtau DAW**. Requires Windows 10/11 x64; tested with Cubase 15. **[📖 Full guide](docs/GUIDE-en.md)**.
-
-Built on OpenUtau (MIT), openutau-vst-bridge (MPL-2.0), the VST 3 SDK, CLAP, clap-wrapper and the ARA SDK — see the license page of the installer and `THIRD-PARTY-NOTICES.txt`. Not affiliated with Steinberg, Yamaha, Celemony or the OpenUtau authors.
 
 <div align="center"><sub>.Борислав(BoBeR 76)</sub></div>
