@@ -1,0 +1,66 @@
+OpenUtau DAW per Cubase 15 — guida
+==================================
+
+1. PRIMO AVVIO
+   • In Cubase aggiungi una traccia instrument con il plugin «OpenUtau DAW».
+     OpenUtau si apre direttamente nella finestra del plugin.
+   • Scegli un cantante: fai clic sul cantante nell'intestazione della traccia di OpenUtau.
+   • Se il plugin non è nell'elenco: Studio → VST Plug-in Manager → ripeti la scansione.
+
+2. LA BARRA IN ALTO NELLA FINESTRA DEL PLUGIN
+   • Punto: verde — il suono è pronto; giallo — rendering in corso; rosso — qualcosa non va
+     (accanto è scritto cosa, ad esempio «la traccia 2 non ha un cantante»).
+   • «Sinc. MIDI» — prende le note da Cubase durante la riproduzione (vedi il punto 3).
+   • «Traccia:» — quale traccia di OpenUtau suona questo plugin.
+   • ⚙ — impostazioni.
+
+3. NOTE DA CUBASE A OPENUTAU
+   Metodo 1 — trascinamento:
+   • Trascina una parte MIDI dalla finestra progetto di Cubase sulla traccia e sulla battuta volute in OpenUtau.
+   Metodo 2 — sincronizzazione durante la riproduzione:
+   • Scrivi le note in una parte MIDI sulla traccia «OpenUtau DAW».
+   • Attiva «Sinc. MIDI» e riproduci il passaggio che ti serve.
+   • Le note compaiono in OpenUtau; le sillabe già inserite vengono mantenute.
+   • Alla fine disattiva «Sinc. MIDI».
+   • Scrivere le note nell'editor di Cubase stesso, come con VOCALOID, è previsto in futuro,
+     ma per ora non è possibile.
+
+4. NOTE DA OPENUTAU A CUBASE
+   • Tieni premuta una parte in OpenUtau e trascinala fuori dalla finestra del plugin.
+   • Rilasciala in un punto vuoto della traccia di Cubase voluta: lì compare una parte MIDI.
+   • Se Cubase crea una nuova traccia per essa: Modifica → Preferenze → MIDI → File MIDI →
+     attiva «Importa file trascinato come parte singola».
+
+5. TEMPO E TRASPORTO
+   • OpenUtau prende il tempo e il metro da Cubase.
+   • Riproduci, Stop e «all'inizio» in OpenUtau comandano Cubase.
+   • Se il tempo cambia durante la canzone, aggiungi il ponte al progetto (una volta per progetto):
+     a) crea una traccia audio, mettici un evento audio qualsiasi che copra tutta la canzone
+        e silenzialo (Mute);
+     b) seleziona l'evento → Audio → Extensions → «OpenUtau DAW Bridge».
+
+6. PIÙ VOCI
+   • Una nuova traccia «OpenUtau DAW» in Cubase crea una nuova traccia in OpenUtau.
+   • «+» in OpenUtau aggiunge anche una nuova traccia in Cubase.
+
+7. TASTI (nella finestra di OpenUtau)
+   • Spazio — riproduci/stop, Home — all'inizio, Ctrl+S — salva.
+   • Se un tasto non fa nulla, fai prima clic nella finestra di OpenUtau.
+
+8. ESPORTAZIONE
+   • Prima di esportare, attendi che il punto nella finestra del plugin sia verde.
+
+9. SALVATAGGIO E RIPRISTINO
+   • La voce viene salvata automaticamente insieme al progetto di Cubase.
+   • File → «Ripristina da backup» — torna a una versione precedente della voce.
+
+10. IMMAGINE DEL CANTANTE SULLA TRACCIA DI CUBASE
+   • Aiuto → «Immagini dei cantanti per Cubase» apre la cartella con le immagini.
+   • In Cubase fai doppio clic sull'immagine della traccia → Importa → scegli il cantante.
+
+11. NUOVE VOCI
+   • Trascina l'archivio del voicebank (.zip) nella finestra di OpenUtau.
+   • Se le tue voci sono in un'altra cartella (OpenUtau portatile o una cartella tua): nella finestra del plugin
+     Strumenti → Preferenze → Percorsi → «Percorso aggiuntivo per i cantanti» → scegli quella cartella.
+   • Per DiffSinger usa la scheda grafica: Strumenti → Preferenze → Renderizzazione →
+     «Motore Machine Learning».

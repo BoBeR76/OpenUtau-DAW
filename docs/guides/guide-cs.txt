@@ -1,0 +1,67 @@
+OpenUtau DAW pro Cubase 15 — návod
+==================================
+(Menu OpenUtau zatím nejsou přeložena do češtiny, proto jsou jejich názvy uvedeny anglicky.)
+
+1. PRVNÍ SPUŠTĚNÍ
+   • V Cubase přidejte stopu nástroje s pluginem „OpenUtau DAW“.
+     OpenUtau se otevře přímo v okně pluginu.
+   • Vyberte zpěváka: klepněte na zpěváka v záhlaví stopy OpenUtau.
+   • Pokud plugin v seznamu není: Studio → VST Plug-in Manager → znovu prohledat.
+
+2. LIŠTA NAHOŘE V OKNĚ PLUGINU
+   • Tečka: zelená — zvuk je připraven; žlutá — probíhá renderování; červená — něco je špatně
+     (vedle je napsáno co, například „stopa 2 nemá zpěváka“).
+   • „Synch. MIDI“ — přebírá noty z Cubase během přehrávání (viz bod 3).
+   • „Stopa:“ — kterou stopu OpenUtau tento plugin přehrává.
+   • ⚙ — nastavení.
+
+3. NOTY Z CUBASE DO OPENUTAU
+   Způsob 1 — přetažení:
+   • Přetáhněte MIDI part z okna projektu Cubase na požadovanou stopu a takt v OpenUtau.
+   Způsob 2 — synchronizace při přehrávání:
+   • Napište noty do MIDI partu na stopě „OpenUtau DAW“.
+   • Zapněte „Synch. MIDI“ a přehrajte potřebný úsek.
+   • Noty se objeví v OpenUtau; už zadané slabiky zůstanou zachovány.
+   • Nakonec „Synch. MIDI“ vypněte.
+   • Psaní not přímo v editoru Cubase, jako u VOCALOID, je plánováno do budoucna,
+     ale zatím to není možné.
+
+4. NOTY Z OPENUTAU DO CUBASE
+   • Podržte part v OpenUtau a přetáhněte ho ven z okna pluginu.
+   • Pusťte ho na prázdné místo požadované stopy Cubase — objeví se tam MIDI part.
+   • Pokud pro něj Cubase vytvoří novou stopu: Edit → Preferences → MIDI → MIDI File →
+     zapněte „Import Dropped File as Single Part“.
+
+5. TEMPO A TRANSPORT
+   • OpenUtau přebírá tempo a takt z Cubase.
+   • Přehrát, Stop a „na začátek“ v OpenUtau ovládají Cubase.
+   • Pokud se tempo během písně mění, přidejte do projektu most (jednou za projekt):
+     a) vytvořte zvukovou stopu, dejte na ni libovolnou zvukovou událost pokrývající celou píseň
+        a ztlumte ji (Mute);
+     b) vyberte událost → Audio → Extensions → „OpenUtau DAW Bridge“.
+
+6. VÍCE HLASŮ
+   • Nová stopa „OpenUtau DAW“ v Cubase vytvoří novou stopu v OpenUtau.
+   • „+“ v OpenUtau přidá novou stopu i v Cubase.
+
+7. KLÁVESY (v okně OpenUtau)
+   • Mezerník — přehrát/stop, Home — na začátek, Ctrl+S — uložit.
+   • Pokud klávesa nic nedělá, nejdřív klepněte do okna OpenUtau.
+
+8. EXPORT
+   • Před exportem počkejte, až bude tečka v okně pluginu zelená.
+
+9. UKLÁDÁNÍ A OBNOVENÍ
+   • Zpěv se ukládá automaticky spolu s projektem Cubase.
+   • File → „Obnovit ze zálohy“ — návrat k některé z dřívějších verzí zpěvu.
+
+10. OBRÁZEK ZPĚVÁKA NA STOPĚ CUBASE
+   • Help → „Obrázky zpěváků pro Cubase“ otevře složku s obrázky.
+   • V Cubase poklepejte na obrázek stopy → Import → vyberte zpěváka.
+
+11. NOVÉ HLASY
+   • Přetáhněte archiv hlasové banky (.zip) do okna OpenUtau.
+   • Pokud máte hlasy v jiné složce (přenosný OpenUtau nebo vlastní složka): v okně pluginu
+     Tools → Preferences → Paths → „Additional Singer Path“ → vyberte tuto složku.
+   • Pro DiffSinger použijte grafickou kartu: Tools → Preferences → Rendering →
+     „Machine Learning Runner“.

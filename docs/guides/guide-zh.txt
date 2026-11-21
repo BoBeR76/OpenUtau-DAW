@@ -1,0 +1,66 @@
+OpenUtau DAW（用于 Cubase 15）— 使用说明
+=========================================
+
+1. 首次启动
+   • 在 Cubase 中添加一条插入“OpenUtau DAW”插件的乐器轨。
+     OpenUtau 会直接在插件窗口中打开。
+   • 选择歌手：点击 OpenUtau 音轨标题中的歌手。
+   • 如果列表中没有该插件：Studio → VST Plug-in Manager → 重新扫描。
+
+2. 插件窗口顶部的栏
+   • 圆点：绿色——声音已就绪；黄色——正在渲染；红色——有问题
+     （旁边会写明原因，例如“音轨 2 没有歌手”）。
+   • “MIDI 同步”——播放时从 Cubase 获取音符（见第 3 条）。
+   • “音轨：”——此插件播放 OpenUtau 的哪条音轨。
+   • ⚙——设置。
+
+3. 从 CUBASE 到 OPENUTAU 的音符
+   方法 1——拖放：
+   • 将 MIDI 片段从 Cubase 工程窗口拖到 OpenUtau 中所需的音轨和小节上。
+   方法 2——播放时同步：
+   • 在“OpenUtau DAW”轨的 MIDI 片段中写入音符。
+   • 打开“MIDI 同步”，播放需要的段落。
+   • 音符会出现在 OpenUtau 中；已输入的歌词会保留。
+   • 完成后关闭“MIDI 同步”。
+   • 将来计划像 VOCALOID 那样直接在 Cubase 自己的编辑器中写音符，
+     但目前还无法实现。
+
+4. 从 OPENUTAU 到 CUBASE 的音符
+   • 在 OpenUtau 中按住一个片段，把它拖出插件窗口。
+   • 将其放到所需 Cubase 音轨的空白处——那里会出现一个 MIDI 片段。
+   • 如果 Cubase 为它新建了音轨：Edit → Preferences → MIDI → MIDI File →
+     打开“Import Dropped File as Single Part”。
+
+5. 速度与走带
+   • OpenUtau 从 Cubase 获取速度和拍号。
+   • OpenUtau 中的播放、停止和“回到开头”会控制 Cubase。
+   • 如果歌曲中速度有变化，请在工程中添加桥接（每个工程一次）：
+     a) 新建一条音频轨，在上面放任意一个覆盖整首歌的音频事件，
+        并将其静音（Mute）；
+     b) 选中该事件 → Audio → Extensions → “OpenUtau DAW Bridge”。
+
+6. 多个声部
+   • 在 Cubase 中新建“OpenUtau DAW”轨会在 OpenUtau 中新建一条音轨。
+   • OpenUtau 中的“+”也会在 Cubase 中新建音轨。
+
+7. 快捷键（在 OpenUtau 窗口中）
+   • 空格——播放/停止，Home——回到开头，Ctrl+S——保存。
+   • 如果按键没有反应，请先点击一下 OpenUtau 窗口。
+
+8. 导出
+   • 导出前，请等待插件窗口中的圆点变为绿色。
+
+9. 保存与恢复
+   • 人声会随 Cubase 工程自动保存。
+   • 文件 → “从备份恢复”——回到人声的某个较早版本。
+
+10. CUBASE 音轨上的歌手图片
+   • 帮助 → “用于 Cubase 的歌手图片”会打开存放图片的文件夹。
+   • 在 Cubase 中双击音轨图片 → Import → 选择歌手。
+
+11. 新声库
+   • 将声库压缩包（.zip）拖入 OpenUtau 窗口。
+   • 如果你的声库在其他文件夹（便携版 OpenUtau 或你自己的文件夹）：在插件窗口中
+     工具 → 使用偏好 → 路径 → “额外歌手路径” → 选择该文件夹。
+   • DiffSinger 请使用显卡：工具 → 使用偏好 → 渲染 →
+     “机器学习运行器”。

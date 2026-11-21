@@ -1,0 +1,66 @@
+OpenUtau DAW for Cubase 15 — guide
+==================================
+
+1. FIRST START
+   • Add an Instrument track with the "OpenUtau DAW" plug-in in Cubase.
+     OpenUtau opens right inside the plug-in window.
+   • Choose a singer: click "Select Singer" in the header of the OpenUtau track.
+   • If the plug-in is not in the list: Studio → VST Plug-in Manager → rescan.
+
+2. THE BAR AT THE TOP OF THE PLUG-IN WINDOW
+   • Dot: green — sound is ready; yellow — rendering; red — something is wrong
+     (the text next to it says what, for example "track 2 has no singer").
+   • "MIDI sync" — takes notes from Cubase while playing (see section 3).
+   • "Track:" — which OpenUtau track this plug-in plays.
+   • ⚙ — settings.
+
+3. NOTES FROM CUBASE TO OPENUTAU
+   Method 1 — drag and drop:
+   • Drag a MIDI part from the Cubase project window onto the right track and bar in OpenUtau.
+   Method 2 — sync while playing:
+   • Write notes in a MIDI part on the "OpenUtau DAW" track.
+   • Turn on "MIDI sync" and play the section you need.
+   • The notes appear in OpenUtau; lyrics you have already entered are kept.
+   • When you are done, turn "MIDI sync" off.
+   • Writing notes in Cubase's own editor, like with VOCALOID, is planned for the future,
+     but it is not possible yet.
+
+4. NOTES FROM OPENUTAU TO CUBASE
+   • Hold a part in OpenUtau and drag it out over the edge of the plug-in window.
+   • Drop it on an empty spot of the Cubase track you want — a MIDI part appears there.
+   • If Cubase creates a new track for it: Edit → Preferences → MIDI → MIDI File →
+     turn on "Import Dropped File as Single Part".
+
+5. TEMPO AND TRANSPORT
+   • OpenUtau takes the tempo and time signature from Cubase.
+   • Play, Stop and "go to start" in OpenUtau control Cubase.
+   • If the tempo changes during the song, add the bridge to the project (once per project):
+     a) create an audio track, put any audio event on it covering the whole song
+        and mute it;
+     b) select the event → Audio → Extensions → "OpenUtau DAW Bridge".
+
+6. SEVERAL VOICES
+   • A new "OpenUtau DAW" track in Cubase creates a new track in OpenUtau.
+   • "+" in OpenUtau adds a new track in Cubase too.
+
+7. KEYS (in the OpenUtau window)
+   • Space — Play/Stop, Home — to the start, Ctrl+S — save.
+   • If a key does nothing, click the OpenUtau window first.
+
+8. EXPORT
+   • Before exporting, wait for the green dot in the plug-in window.
+
+9. SAVING AND RESTORING
+   • The vocal is saved together with the Cubase project automatically.
+   • File → "Restore from Backup" — go back to one of the earlier versions of the vocal.
+
+10. SINGER PICTURE ON THE CUBASE TRACK
+   • Help → "Singer Pictures for Cubase" opens the folder with the pictures.
+   • In Cubase, double-click the track picture → Import → choose the singer.
+
+11. NEW VOICES
+   • Drag a voicebank archive (.zip) into the OpenUtau window.
+   • If your voices are in another folder (portable OpenUtau or a folder of your own): in the plug-in window
+     Tools → Preferences → Paths → "Additional Singer Path" → choose that folder.
+   • For DiffSinger, use the graphics card: Tools → Preferences → Rendering →
+     "Machine Learning Runner".

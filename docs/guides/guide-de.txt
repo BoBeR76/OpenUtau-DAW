@@ -1,0 +1,66 @@
+OpenUtau DAW für Cubase 15 — Anleitung
+======================================
+
+1. ERSTER START
+   • Fügen Sie in Cubase eine Instrumentenspur mit dem Plug-in „OpenUtau DAW“ hinzu.
+     OpenUtau öffnet sich direkt im Plug-in-Fenster.
+   • Sänger wählen: Klicken Sie im Kopf der OpenUtau-Spur auf den Sänger.
+   • Wenn das Plug-in nicht in der Liste steht: Studio → VST Plug-in Manager → neu scannen.
+
+2. DIE LEISTE OBEN IM PLUG-IN-FENSTER
+   • Punkt: grün — der Klang ist fertig; gelb — es wird gerendert; rot — etwas stimmt nicht
+     (daneben steht, was, zum Beispiel „Spur 2 hat keinen Sänger“).
+   • „MIDI-Sync“ — übernimmt beim Abspielen die Noten aus Cubase (siehe Punkt 3).
+   • „Spur:“ — welche OpenUtau-Spur dieses Plug-in abspielt.
+   • ⚙ — Einstellungen.
+
+3. NOTEN VON CUBASE NACH OPENUTAU
+   Weg 1 — Ziehen und Ablegen:
+   • Ziehen Sie einen MIDI-Part aus dem Cubase-Projektfenster auf die gewünschte Spur und den Takt in OpenUtau.
+   Weg 2 — Synchronisieren beim Abspielen:
+   • Schreiben Sie die Noten in einen MIDI-Part auf der Spur „OpenUtau DAW“.
+   • Schalten Sie „MIDI-Sync“ ein und spielen Sie den gewünschten Abschnitt ab.
+   • Die Noten erscheinen in OpenUtau; bereits eingegebene Silben bleiben erhalten.
+   • Danach „MIDI-Sync“ wieder ausschalten.
+   • Noten im Cubase-eigenen Editor zu schreiben, wie bei VOCALOID, ist für die Zukunft geplant,
+     aber noch nicht möglich.
+
+4. NOTEN VON OPENUTAU NACH CUBASE
+   • Halten Sie einen Part in OpenUtau fest und ziehen Sie ihn über den Rand des Plug-in-Fensters hinaus.
+   • Legen Sie ihn auf einer leeren Stelle der gewünschten Cubase-Spur ab — dort erscheint ein MIDI-Part.
+   • Wenn Cubase dafür eine neue Spur anlegt: Bearbeiten → Programmeinstellungen → MIDI → MIDI-Datei →
+     „Abgelegte Datei als einzelnen Part importieren“ einschalten.
+
+5. TEMPO UND TRANSPORT
+   • OpenUtau übernimmt Tempo und Taktart aus Cubase.
+   • Abspielen, Stopp und „zum Anfang“ in OpenUtau steuern Cubase.
+   • Wenn sich das Tempo im Lied ändert, fügen Sie die Brücke zum Projekt hinzu (einmal pro Projekt):
+     a) Legen Sie eine Audiospur an, setzen Sie ein beliebiges Audio-Event darauf, das das ganze Lied abdeckt,
+        und schalten Sie es stumm (Mute);
+     b) Event auswählen → Audio → Erweiterungen → „OpenUtau DAW Bridge“.
+
+6. MEHRERE STIMMEN
+   • Eine neue Spur „OpenUtau DAW“ in Cubase legt eine neue Spur in OpenUtau an.
+   • „+“ in OpenUtau legt auch eine neue Spur in Cubase an.
+
+7. TASTEN (im OpenUtau-Fenster)
+   • Leertaste — Abspielen/Stopp, Pos1 — zum Anfang, Strg+S — speichern.
+   • Wenn eine Taste nichts tut, klicken Sie zuerst in das OpenUtau-Fenster.
+
+8. EXPORT
+   • Warten Sie vor dem Exportieren, bis der Punkt im Plug-in-Fenster grün ist.
+
+9. SPEICHERN UND WIEDERHERSTELLEN
+   • Der Gesang wird automatisch zusammen mit dem Cubase-Projekt gespeichert.
+   • Datei → „Aus Sicherung wiederherstellen“ — zu einer früheren Version des Gesangs zurückkehren.
+
+10. SÄNGERBILD AUF DER CUBASE-SPUR
+   • Hilfe → „Sängerbilder für Cubase“ öffnet den Ordner mit den Bildern.
+   • In Cubase auf das Spurbild doppelklicken → Importieren → den Sänger wählen.
+
+11. NEUE STIMMEN
+   • Ziehen Sie das Archiv der Stimmbank (.zip) in das OpenUtau-Fenster.
+   • Wenn Ihre Stimmen in einem anderen Ordner liegen (portables OpenUtau oder ein eigener Ordner): im Plug-in-Fenster
+     Werkzeuge → Einstellungen → Pfade → „Zusätzlicher Sänger Pfad“ → diesen Ordner wählen.
+   • Für DiffSinger die Grafikkarte verwenden: Werkzeuge → Einstellungen → Rendering →
+     „Machine Learning Runner“.

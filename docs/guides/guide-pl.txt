@@ -1,0 +1,66 @@
+OpenUtau DAW dla Cubase 15 — instrukcja
+=======================================
+
+1. PIERWSZE URUCHOMIENIE
+   • W Cubase dodaj ścieżkę instrumentu z wtyczką „OpenUtau DAW”.
+     OpenUtau otworzy się bezpośrednio w oknie wtyczki.
+   • Wybierz śpiewaka: kliknij śpiewaka w nagłówku ścieżki OpenUtau.
+   • Jeśli wtyczki nie ma na liście: Studio → VST Plug-in Manager → skanuj ponownie.
+
+2. PASEK U GÓRY OKNA WTYCZKI
+   • Kropka: zielona — dźwięk gotowy; żółta — trwa renderowanie; czerwona — coś jest nie tak
+     (obok jest napisane co, na przykład „ścieżka 2 nie ma śpiewaka”).
+   • „Synch. MIDI” — pobiera nuty z Cubase podczas odtwarzania (zob. punkt 3).
+   • „Ścieżka:” — którą ścieżkę OpenUtau odtwarza ta wtyczka.
+   • ⚙ — ustawienia.
+
+3. NUTY Z CUBASE DO OPENUTAU
+   Sposób 1 — przeciągnij i upuść:
+   • Przeciągnij partię MIDI z okna projektu Cubase na wybraną ścieżkę i takt w OpenUtau.
+   Sposób 2 — synchronizacja podczas odtwarzania:
+   • Zapisz nuty w partii MIDI na ścieżce „OpenUtau DAW”.
+   • Włącz „Synch. MIDI” i odtwórz potrzebny fragment.
+   • Nuty pojawią się w OpenUtau; wpisane już sylaby zostaną zachowane.
+   • Na koniec wyłącz „Synch. MIDI”.
+   • Pisanie nut we własnym edytorze Cubase, jak w VOCALOID, jest planowane w przyszłości,
+     ale na razie nie jest możliwe.
+
+4. NUTY Z OPENUTAU DO CUBASE
+   • Przytrzymaj partię w OpenUtau i przeciągnij ją poza okno wtyczki.
+   • Upuść ją w pustym miejscu wybranej ścieżki Cubase — pojawi się tam partia MIDI.
+   • Jeśli Cubase tworzy dla niej nową ścieżkę: Edit → Preferences → MIDI → MIDI File →
+     włącz „Import Dropped File as Single Part”.
+
+5. TEMPO I TRANSPORT
+   • OpenUtau pobiera tempo i metrum z Cubase.
+   • Odtwarzanie, Stop i „na początek” w OpenUtau sterują Cubase.
+   • Jeśli tempo zmienia się w trakcie utworu, dodaj most do projektu (raz na projekt):
+     a) utwórz ścieżkę audio, umieść na niej dowolne zdarzenie audio obejmujące cały utwór
+        i wycisz je (Mute);
+     b) zaznacz zdarzenie → Audio → Extensions → „OpenUtau DAW Bridge”.
+
+6. KILKA GŁOSÓW
+   • Nowa ścieżka „OpenUtau DAW” w Cubase tworzy nową ścieżkę w OpenUtau.
+   • „+” w OpenUtau dodaje też nową ścieżkę w Cubase.
+
+7. KLAWISZE (w oknie OpenUtau)
+   • Spacja — odtwarzanie/stop, Home — na początek, Ctrl+S — zapisz.
+   • Jeśli klawisz nie działa, najpierw kliknij okno OpenUtau.
+
+8. EKSPORT
+   • Przed eksportem poczekaj, aż kropka w oknie wtyczki będzie zielona.
+
+9. ZAPIS I PRZYWRACANIE
+   • Wokal zapisuje się automatycznie razem z projektem Cubase.
+   • Plik → „Przywróć z kopii zapasowej” — powrót do jednej z wcześniejszych wersji wokalu.
+
+10. OBRAZ ŚPIEWAKA NA ŚCIEŻCE CUBASE
+   • Pomoc → „Obrazy śpiewaków dla Cubase” otwiera folder z obrazami.
+   • W Cubase kliknij dwukrotnie obraz ścieżki → Import → wybierz śpiewaka.
+
+11. NOWE GŁOSY
+   • Przeciągnij archiwum banku głosu (.zip) do okna OpenUtau.
+   • Jeśli Twoje głosy są w innym folderze (przenośne OpenUtau lub własny folder): w oknie wtyczki
+     Narzędzia → Ustawienia → Ścieżki → „Dodatkowa ścieżka głosów” → wybierz ten folder.
+   • Dla DiffSinger użyj karty graficznej: Narzędzia → Ustawienia → Renderowanie →
+     „Akcelerator SI”.

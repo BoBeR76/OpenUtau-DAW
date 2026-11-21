@@ -1,0 +1,66 @@
+Cubase 15 için OpenUtau DAW — kılavuz
+=====================================
+
+1. İLK BAŞLATMA
+   • Cubase'de “OpenUtau DAW” eklentili bir enstrüman parçası ekleyin.
+     OpenUtau doğrudan eklenti penceresinin içinde açılır.
+   • Şarkıcı seçin: OpenUtau parçasının başlığındaki şarkıcıya tıklayın.
+   • Eklenti listede yoksa: Studio → VST Plug-in Manager → yeniden tara.
+
+2. EKLENTİ PENCERESİNİN ÜSTÜNDEKİ ÇUBUK
+   • Nokta: yeşil — ses hazır; sarı — işleniyor; kırmızı — bir sorun var
+     (yanında ne olduğu yazar, örneğin “2. parçanın şarkıcısı yok”).
+   • “MIDI eşitleme” — çalarken notaları Cubase'den alır (3. maddeye bakın).
+   • “Parça:” — bu eklentinin hangi OpenUtau parçasını çaldığı.
+   • ⚙ — ayarlar.
+
+3. CUBASE'DEN OPENUTAU'YA NOTALAR
+   Yol 1 — sürükle ve bırak:
+   • Cubase proje penceresinden bir MIDI bölümünü OpenUtau'daki istediğiniz parçaya ve ölçüye sürükleyin.
+   Yol 2 — çalarken eşitleme:
+   • Notaları “OpenUtau DAW” parçasındaki bir MIDI bölümüne yazın.
+   • “MIDI eşitleme”yi açın ve gereken kısmı çalın.
+   • Notalar OpenUtau'da görünür; önceden girdiğiniz heceler korunur.
+   • Bitince “MIDI eşitleme”yi kapatın.
+   • Notaları VOCALOID'deki gibi doğrudan Cubase'in kendi düzenleyicisinde yazmak ileride planlanıyor,
+     ancak şimdilik mümkün değil.
+
+4. OPENUTAU'DAN CUBASE'E NOTALAR
+   • OpenUtau'da bir bölümü basılı tutun ve eklenti penceresinin dışına sürükleyin.
+   • İstediğiniz Cubase parçasının boş bir yerine bırakın — orada bir MIDI bölümü oluşur.
+   • Cubase onun için yeni bir parça oluşturursa: Edit → Preferences → MIDI → MIDI File →
+     “Import Dropped File as Single Part” seçeneğini açın.
+
+5. TEMPO VE TRANSPORT
+   • OpenUtau tempoyu ve ölçü birimini Cubase'den alır.
+   • OpenUtau'daki Çal, Durdur ve “başa dön” Cubase'i kontrol eder.
+   • Şarkı boyunca tempo değişiyorsa projeye köprüyü ekleyin (proje başına bir kez):
+     a) bir ses parçası oluşturun, üzerine tüm şarkıyı kaplayan herhangi bir ses olayı koyun
+        ve sesini kapatın (Mute);
+     b) olayı seçin → Audio → Extensions → “OpenUtau DAW Bridge”.
+
+6. BİRDEN FAZLA SES
+   • Cubase'deki yeni bir “OpenUtau DAW” parçası OpenUtau'da yeni bir parça oluşturur.
+   • OpenUtau'daki “+” Cubase'e de yeni bir parça ekler.
+
+7. TUŞLAR (OpenUtau penceresinde)
+   • Boşluk — çal/durdur, Home — başa, Ctrl+S — kaydet.
+   • Bir tuş çalışmıyorsa önce OpenUtau penceresine tıklayın.
+
+8. DIŞA AKTARMA
+   • Dışa aktarmadan önce eklenti penceresindeki noktanın yeşil olmasını bekleyin.
+
+9. KAYDETME VE GERİ YÜKLEME
+   • Vokal, Cubase projesiyle birlikte otomatik olarak kaydedilir.
+   • Dosya → “Yedekten geri yükle” — vokalin önceki sürümlerinden birine dönün.
+
+10. CUBASE PARÇASINDA ŞARKICI RESMİ
+   • Yardım → “Cubase için şarkıcı resimleri” resimlerin bulunduğu klasörü açar.
+   • Cubase'de parça resmine çift tıklayın → Import → şarkıcıyı seçin.
+
+11. YENİ SESLER
+   • Ses bankası arşivini (.zip) OpenUtau penceresine sürükleyin.
+   • Sesleriniz başka bir klasördeyse (taşınabilir OpenUtau veya kendi klasörünüz): eklenti penceresinde
+     Araçlar → Tercihler → Yollar → “Ek Ses Bankası Yolu” → o klasörü seçin.
+   • DiffSinger için ekran kartını kullanın: Araçlar → Tercihler → Render →
+     “Makine Öğrenimi Çalıştırıcısı”.

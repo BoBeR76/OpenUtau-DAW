@@ -9,7 +9,7 @@
 ![Форматы](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Языки](https://img.shields.io/badge/языков-14-3aa7e0)
 
-[**⬇ Скачать установщик**](../../releases/latest) · [English](#english)
+[**⬇ Скачать установщик**](../../releases/latest) · [**📖 Инструкция**](docs/GUIDE.md) · [English](#english)
 
 ![OpenUtau в окне плагина Cubase](docs/cubase-pianoroll.png)
 
@@ -52,7 +52,7 @@ OpenUtau DAW — плагин для Cubase, который открывает �
 2. Пишите ноты и текст в OpenUtau — звук идёт через дорожку Cubase.
 3. Перед экспортом дождитесь **зелёной точки** на панели плагина.
 
-Полная инструкция ставится вместе с программой и открывается в OpenUtau: *Справка → «Инструкция OpenUtau DAW»*.
+**[📖 Полная инструкция](docs/GUIDE.md)** — с картинками, на 14 языках. Она же ставится вместе с программой и открывается в OpenUtau: *Справка → «Инструкция OpenUtau DAW»*.
 
 ## Проверка файлов
 
@@ -87,7 +87,7 @@ OpenUtau DAW не связан со Steinberg, Yamaha, Celemony или авто�
 - One voice per "OpenUtau DAW" track, 8 extra outputs, saved with the Cubase project plus 10 vocal backups.
 - 14 languages.
 
-**Install:** download the installer from [Releases](../../releases/latest), close Cubase, run it, then add an Instrument track with **OpenUtau DAW**. Requires Windows 10/11 x64; tested with Cubase 15.
+**Install:** download the installer from [Releases](../../releases/latest), close Cubase, run it, then add an Instrument track with **OpenUtau DAW**. Requires Windows 10/11 x64; tested with Cubase 15. **[📖 Full guide](docs/GUIDE-en.md)**.
 
 Built on OpenUtau (MIT), openutau-vst-bridge (MPL-2.0), the VST 3 SDK, CLAP, clap-wrapper and the ARA SDK — see the license page of the installer and `THIRD-PARTY-NOTICES.txt`. Not affiliated with Steinberg, Yamaha, Celemony or the OpenUtau authors.
 
