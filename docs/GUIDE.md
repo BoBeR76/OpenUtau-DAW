@@ -1,6 +1,8 @@
 # 📖 Инструкция OpenUtau DAW
 
-[← На главную](../README.md) · [English](GUIDE-en.md) · [Другие языки](#другие-языки)
+[← На главную](../README.md)
+
+🌍 **Русский** · [English](GUIDE-en.md) · [Українська](GUIDE-uk.md) · [日本語](GUIDE-ja.md) · [Español](GUIDE-es.md) · [Deutsch](GUIDE-de.md) · [Français](GUIDE-fr.md) · [Italiano](GUIDE-it.md) · [Português](GUIDE-pt.md) · [Polski](GUIDE-pl.md) · [Čeština](GUIDE-cs.md) · [Türkçe](GUIDE-tr.md) · [简体中文](GUIDE-zh.md) · [한국어](GUIDE-ko.md)
 
 OpenUtau DAW встраивает редактор пения OpenUtau прямо в окно плагина Cubase. Здесь — то, что добавляет плагин; сам OpenUtau работает как обычно.
 
@@ -162,19 +164,4 @@ OpenUtau DAW встраивает редактор пения OpenUtau прям�
 
 ## Другие языки
 
-Краткая инструкция на всех 14 языках (такая же ставится с программой):
-
-[Русский](guides/guide-ru.txt) ·
-[English](guides/guide-en.txt) ·
-[Українська](guides/guide-uk.txt) ·
-[日本語](guides/guide-ja.txt) ·
-[Español](guides/guide-es.txt) ·
-[Deutsch](guides/guide-de.txt) ·
-[Français](guides/guide-fr.txt) ·
-[Italiano](guides/guide-it.txt) ·
-[Português](guides/guide-pt.txt) ·
-[Polski](guides/guide-pl.txt) ·
-[Čeština](guides/guide-cs.txt) ·
-[Türkçe](guides/guide-tr.txt) ·
-[简体中文](guides/guide-zh.txt) ·
-[한국어](guides/guide-ko.txt)
+Полная инструкция на других языках — переключатель 🌍 вверху страницы. Краткие текстовые версии (такие же ставятся с программой) лежат в папке [guides](guides).
