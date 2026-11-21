@@ -9,11 +9,11 @@
 ![Formats](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Languages](https://img.shields.io/badge/languages-14-3aa7e0)
 
-[**⬇ 下载安装程序**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 使用说明**](docs/GUIDE-zh.md)
+[**⬇ 下载安装程序**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 使用说明**](GUIDE-zh.md)
 
-🌍 [Русский](README.md) · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · **简体中文** · [한국어](README.ko.md)
+🌍 [Русский](../README.md) · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · **简体中文** · [한국어](README.ko.md)
 
-![Cubase 插件窗口中的 OpenUtau](docs/cubase-pianoroll.png)
+![Cubase 插件窗口中的 OpenUtau](cubase-pianoroll.png)
 
 </div>
 
@@ -34,9 +34,9 @@ OpenUtau DAW 是一款 Cubase 插件，可在插件窗口中直接打开歌声�
 
 | | |
 |---|---|
-| ![Instrument 音轨上的插件](docs/cubase-plugin.png) | ![OpenUtau 的窗口在插件之上打开](docs/settings-inside.png) |
+| ![Instrument 音轨上的插件](cubase-plugin.png) | ![OpenUtau 的窗口在插件之上打开](settings-inside.png) |
 | Instrument 音轨上的插件 | OpenUtau 的窗口在插件之上打开 |
-| ![内置使用说明](docs/guide.png) | ![可选择语言的安装程序](docs/media/en/installer-welcome.png) |
+| ![内置使用说明](guide.png) | ![可选择语言的安装程序](media/en/installer-welcome.png) |
 | 内置使用说明 | 可选择语言的安装程序 |
 
 ## 安装
@@ -57,7 +57,7 @@ OpenUtau DAW 是一款 Cubase 插件，可在插件窗口中直接打开歌声�
 2. 在 OpenUtau 中写音符和歌词——声音通过 Cubase 音轨输出。
 3. 导出前，请等待插件栏上出现**绿色圆点**。
 
-**[📖 完整使用说明](docs/GUIDE-zh.md)**——带图片，共 14 种语言。它也会随程序一起安装，并可在 OpenUtau 中打开：*帮助 → “OpenUtau DAW 使用说明”*。
+**[📖 完整使用说明](GUIDE-zh.md)**——带图片，共 14 种语言。它也会随程序一起安装，并可在 OpenUtau 中打开：*帮助 → “OpenUtau DAW 使用说明”*。
 
 ## 校验文件
 

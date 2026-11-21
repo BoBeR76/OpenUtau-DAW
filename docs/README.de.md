@@ -9,11 +9,11 @@
 ![Formats](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Languages](https://img.shields.io/badge/languages-14-3aa7e0)
 
-[**⬇ Installer herunterladen**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 Anleitung**](docs/GUIDE-de.md)
+[**⬇ Installer herunterladen**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 Anleitung**](GUIDE-de.md)
 
-🌍 [Русский](README.md) · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · **Deutsch** · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
+🌍 [Русский](../README.md) · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · **Deutsch** · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
 
-![OpenUtau im Cubase-Plug-in-Fenster](docs/cubase-pianoroll.png)
+![OpenUtau im Cubase-Plug-in-Fenster](cubase-pianoroll.png)
 
 </div>
 
@@ -34,9 +34,9 @@ OpenUtau DAW ist ein Plug-in für Cubase, das den Gesangseditor [OpenUtau](https
 
 | | |
 |---|---|
-| ![Das Plug-in auf einer Instrumentenspur](docs/cubase-plugin.png) | ![OpenUtau-Dialoge öffnen sich über dem Plug-in](docs/settings-inside.png) |
+| ![Das Plug-in auf einer Instrumentenspur](cubase-plugin.png) | ![OpenUtau-Dialoge öffnen sich über dem Plug-in](settings-inside.png) |
 | Das Plug-in auf einer Instrumentenspur | OpenUtau-Dialoge öffnen sich über dem Plug-in |
-| ![Integrierte Anleitung](docs/guide.png) | ![Installer mit Sprachauswahl](docs/media/en/installer-welcome.png) |
+| ![Integrierte Anleitung](guide.png) | ![Installer mit Sprachauswahl](media/en/installer-welcome.png) |
 | Integrierte Anleitung | Installer mit Sprachauswahl |
 
 ## Installation
@@ -57,7 +57,7 @@ Eine neue Version wird über die alte installiert; OpenUtau-Einstellungen, Stimm
 2. Schreiben Sie Noten und Text in OpenUtau — der Klang läuft über die Cubase-Spur.
 3. Warten Sie vor dem Export auf den **grünen Punkt** in der Plug-in-Leiste.
 
-**[📖 Vollständige Anleitung](docs/GUIDE-de.md)** — mit Bildern, in 14 Sprachen. Sie wird auch mit dem Programm installiert und öffnet sich in OpenUtau: *Hilfe → „OpenUtau DAW Anleitung“*.
+**[📖 Vollständige Anleitung](GUIDE-de.md)** — mit Bildern, in 14 Sprachen. Sie wird auch mit dem Programm installiert und öffnet sich in OpenUtau: *Hilfe → „OpenUtau DAW Anleitung“*.
 
 ## Dateien prüfen
 

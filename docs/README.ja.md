@@ -9,11 +9,11 @@
 ![Formats](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Languages](https://img.shields.io/badge/languages-14-3aa7e0)
 
-[**⬇ インストーラーをダウンロード**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 ガイド**](docs/GUIDE-ja.md)
+[**⬇ インストーラーをダウンロード**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 ガイド**](GUIDE-ja.md)
 
-🌍 [Русский](README.md) · [English](README.en.md) · [Українська](README.uk.md) · **日本語** · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
+🌍 [Русский](../README.md) · [English](README.en.md) · [Українська](README.uk.md) · **日本語** · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
 
-![Cubase のプラグインウィンドウ内の OpenUtau](docs/cubase-pianoroll.png)
+![Cubase のプラグインウィンドウ内の OpenUtau](cubase-pianoroll.png)
 
 </div>
 
@@ -34,9 +34,9 @@ OpenUtau DAW は、歌声エディター [OpenUtau](https://github.com/stakira/O
 
 | | |
 |---|---|
-| ![Instrument トラック上のプラグイン](docs/cubase-plugin.png) | ![OpenUtau のウィンドウはプラグインの上に開きます](docs/settings-inside.png) |
+| ![Instrument トラック上のプラグイン](cubase-plugin.png) | ![OpenUtau のウィンドウはプラグインの上に開きます](settings-inside.png) |
 | Instrument トラック上のプラグイン | OpenUtau のウィンドウはプラグインの上に開きます |
-| ![内蔵ガイド](docs/guide.png) | ![言語を選べるインストーラー](docs/media/en/installer-welcome.png) |
+| ![内蔵ガイド](guide.png) | ![言語を選べるインストーラー](media/en/installer-welcome.png) |
 | 内蔵ガイド | 言語を選べるインストーラー |
 
 ## インストール
@@ -57,7 +57,7 @@ OpenUtau DAW は、歌声エディター [OpenUtau](https://github.com/stakira/O
 2. OpenUtau でノートと歌詞を書きます。音は Cubase のトラックから出ます。
 3. 書き出しの前に、プラグインバーの**緑の丸**を待ちます。
 
-**[📖 詳しいガイド](docs/GUIDE-ja.md)** — 画像付き、14 言語。プログラムと一緒にもインストールされ、OpenUtau で開けます: *ヘルプ →「OpenUtau DAW ガイド」*。
+**[📖 詳しいガイド](GUIDE-ja.md)** — 画像付き、14 言語。プログラムと一緒にもインストールされ、OpenUtau で開けます: *ヘルプ →「OpenUtau DAW ガイド」*。
 
 ## ファイルの確認
 

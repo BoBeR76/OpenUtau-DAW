@@ -9,11 +9,11 @@
 ![Formats](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Languages](https://img.shields.io/badge/languages-14-3aa7e0)
 
-[**⬇ Scarica l'installer**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 Guida**](docs/GUIDE-it.md)
+[**⬇ Scarica l'installer**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 Guida**](GUIDE-it.md)
 
-🌍 [Русский](README.md) · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · **Italiano** · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
+🌍 [Русский](../README.md) · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · **Italiano** · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
 
-![OpenUtau nella finestra del plugin di Cubase](docs/cubase-pianoroll.png)
+![OpenUtau nella finestra del plugin di Cubase](cubase-pianoroll.png)
 
 </div>
 
@@ -34,9 +34,9 @@ OpenUtau DAW è un plugin per Cubase che apre l'editor di canto [OpenUtau](https
 
 | | |
 |---|---|
-| ![Il plugin su una traccia instrument](docs/cubase-plugin.png) | ![Le finestre di OpenUtau si aprono sopra il plugin](docs/settings-inside.png) |
+| ![Il plugin su una traccia instrument](cubase-plugin.png) | ![Le finestre di OpenUtau si aprono sopra il plugin](settings-inside.png) |
 | Il plugin su una traccia instrument | Le finestre di OpenUtau si aprono sopra il plugin |
-| ![Guida integrata](docs/guide.png) | ![Installer con scelta della lingua](docs/media/en/installer-welcome.png) |
+| ![Guida integrata](guide.png) | ![Installer con scelta della lingua](media/en/installer-welcome.png) |
 | Guida integrata | Installer con scelta della lingua |
 
 ## Installazione
@@ -57,7 +57,7 @@ La nuova versione si installa sopra la precedente; impostazioni di OpenUtau, voi
 2. Scrivi note e testo in OpenUtau: il suono passa per la traccia di Cubase.
 3. Prima di esportare, attendi il **punto verde** nella barra del plugin.
 
-**[📖 Guida completa](docs/GUIDE-it.md)**, con immagini, in 14 lingue. Viene anche installata con il programma e si apre in OpenUtau: *Aiuto → «Guida di OpenUtau DAW»*.
+**[📖 Guida completa](GUIDE-it.md)**, con immagini, in 14 lingue. Viene anche installata con il programma e si apre in OpenUtau: *Aiuto → «Guida di OpenUtau DAW»*.
 
 ## Verifica dei file
 

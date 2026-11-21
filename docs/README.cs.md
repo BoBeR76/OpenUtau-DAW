@@ -9,11 +9,11 @@
 ![Formats](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Languages](https://img.shields.io/badge/languages-14-3aa7e0)
 
-[**⬇ Stáhnout instalátor**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 Návod**](docs/GUIDE-cs.md)
+[**⬇ Stáhnout instalátor**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 Návod**](GUIDE-cs.md)
 
-🌍 [Русский](README.md) · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · **Čeština** · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
+🌍 [Русский](../README.md) · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · **Čeština** · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
 
-![OpenUtau v okně pluginu Cubase](docs/cubase-pianoroll.png)
+![OpenUtau v okně pluginu Cubase](cubase-pianoroll.png)
 
 </div>
 
@@ -34,9 +34,9 @@ OpenUtau DAW je plugin pro Cubase, který otevírá editor zpěvu [OpenUtau](htt
 
 | | |
 |---|---|
-| ![Plugin na stopě nástroje](docs/cubase-plugin.png) | ![Okna OpenUtau se otevírají nad pluginem](docs/settings-inside.png) |
+| ![Plugin na stopě nástroje](cubase-plugin.png) | ![Okna OpenUtau se otevírají nad pluginem](settings-inside.png) |
 | Plugin na stopě nástroje | Okna OpenUtau se otevírají nad pluginem |
-| ![Vestavěný návod](docs/guide.png) | ![Instalátor s volbou jazyka](docs/media/en/installer-welcome.png) |
+| ![Vestavěný návod](guide.png) | ![Instalátor s volbou jazyka](media/en/installer-welcome.png) |
 | Vestavěný návod | Instalátor s volbou jazyka |
 
 ## Instalace
@@ -57,7 +57,7 @@ Nová verze se instaluje přes starou; nastavení OpenUtau, hlasové banky a pro
 2. Pište noty a text v OpenUtau — zvuk jde přes stopu Cubase.
 3. Před exportem počkejte na **zelenou tečku** na liště pluginu.
 
-**[📖 Úplný návod](docs/GUIDE-cs.md)** — s obrázky, ve 14 jazycích. Instaluje se i s programem a otevírá se v OpenUtau: *Help → „Návod k OpenUtau DAW“*.
+**[📖 Úplný návod](GUIDE-cs.md)** — s obrázky, ve 14 jazycích. Instaluje se i s programem a otevírá se v OpenUtau: *Help → „Návod k OpenUtau DAW“*.
 
 ## Kontrola souborů
 

@@ -9,11 +9,11 @@
 ![Formats](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Languages](https://img.shields.io/badge/languages-14-3aa7e0)
 
-[**⬇ Завантажити інсталятор**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 Інструкція**](docs/GUIDE-uk.md)
+[**⬇ Завантажити інсталятор**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 Інструкція**](GUIDE-uk.md)
 
-🌍 [Русский](README.md) · [English](README.en.md) · **Українська** · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
+🌍 [Русский](../README.md) · [English](README.en.md) · **Українська** · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
 
-![OpenUtau у вікні плагіна Cubase](docs/cubase-pianoroll.png)
+![OpenUtau у вікні плагіна Cubase](cubase-pianoroll.png)
 
 </div>
 
@@ -34,9 +34,9 @@ OpenUtau DAW — плагін для Cubase, який відкриває ред�
 
 | | |
 |---|---|
-| ![Плагін на Instrument-доріжці](docs/cubase-plugin.png) | ![Вікна OpenUtau відкриваються поверх плагіна](docs/settings-inside.png) |
+| ![Плагін на Instrument-доріжці](cubase-plugin.png) | ![Вікна OpenUtau відкриваються поверх плагіна](settings-inside.png) |
 | Плагін на Instrument-доріжці | Вікна OpenUtau відкриваються поверх плагіна |
-| ![Вбудована інструкція](docs/guide.png) | ![Інсталятор із вибором мови](docs/media/en/installer-welcome.png) |
+| ![Вбудована інструкція](guide.png) | ![Інсталятор із вибором мови](media/en/installer-welcome.png) |
 | Вбудована інструкція | Інсталятор із вибором мови |
 
 ## Встановлення
@@ -57,7 +57,7 @@ OpenUtau DAW — плагін для Cubase, який відкриває ред�
 2. Пишіть ноти й текст в OpenUtau — звук іде через доріжку Cubase.
 3. Перед експортом дочекайтеся **зеленої крапки** на панелі плагіна.
 
-**[📖 Повна інструкція](docs/GUIDE-uk.md)** — з картинками, 14 мовами. Вона ж встановлюється разом із програмою й відкривається в OpenUtau: *Довідка → «Інструкція OpenUtau DAW»*.
+**[📖 Повна інструкція](GUIDE-uk.md)** — з картинками, 14 мовами. Вона ж встановлюється разом із програмою й відкривається в OpenUtau: *Довідка → «Інструкція OpenUtau DAW»*.
 
 ## Перевірка файлів
 

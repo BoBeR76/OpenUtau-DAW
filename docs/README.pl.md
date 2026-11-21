@@ -9,11 +9,11 @@
 ![Formats](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Languages](https://img.shields.io/badge/languages-14-3aa7e0)
 
-[**⬇ Pobierz instalator**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 Instrukcja**](docs/GUIDE-pl.md)
+[**⬇ Pobierz instalator**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 Instrukcja**](GUIDE-pl.md)
 
-🌍 [Русский](README.md) · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · **Polski** · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
+🌍 [Русский](../README.md) · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · **Polski** · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
 
-![OpenUtau w oknie wtyczki Cubase](docs/cubase-pianoroll.png)
+![OpenUtau w oknie wtyczki Cubase](cubase-pianoroll.png)
 
 </div>
 
@@ -34,9 +34,9 @@ OpenUtau DAW to wtyczka do Cubase, która otwiera edytor śpiewu [OpenUtau](http
 
 | | |
 |---|---|
-| ![Wtyczka na ścieżce instrumentu](docs/cubase-plugin.png) | ![Okna OpenUtau otwierają się nad wtyczką](docs/settings-inside.png) |
+| ![Wtyczka na ścieżce instrumentu](cubase-plugin.png) | ![Okna OpenUtau otwierają się nad wtyczką](settings-inside.png) |
 | Wtyczka na ścieżce instrumentu | Okna OpenUtau otwierają się nad wtyczką |
-| ![Wbudowana instrukcja](docs/guide.png) | ![Instalator z wyborem języka](docs/media/en/installer-welcome.png) |
+| ![Wbudowana instrukcja](guide.png) | ![Instalator z wyborem języka](media/en/installer-welcome.png) |
 | Wbudowana instrukcja | Instalator z wyborem języka |
 
 ## Instalacja
@@ -57,7 +57,7 @@ Nowa wersja instaluje się na starej; ustawienia OpenUtau, banki głosów i proj
 2. Pisz nuty i tekst w OpenUtau — dźwięk idzie przez ścieżkę Cubase.
 3. Przed eksportem poczekaj na **zieloną kropkę** na pasku wtyczki.
 
-**[📖 Pełna instrukcja](docs/GUIDE-pl.md)** — z obrazkami, w 14 językach. Instaluje się też razem z programem i otwiera w OpenUtau: *Pomoc → „Instrukcja OpenUtau DAW”*.
+**[📖 Pełna instrukcja](GUIDE-pl.md)** — z obrazkami, w 14 językach. Instaluje się też razem z programem i otwiera w OpenUtau: *Pomoc → „Instrukcja OpenUtau DAW”*.
 
 ## Sprawdzanie plików
 

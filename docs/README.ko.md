@@ -9,11 +9,11 @@
 ![Formats](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Languages](https://img.shields.io/badge/languages-14-3aa7e0)
 
-[**⬇ 설치 프로그램 내려받기**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 사용 설명서**](docs/GUIDE-ko.md)
+[**⬇ 설치 프로그램 내려받기**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 사용 설명서**](GUIDE-ko.md)
 
-🌍 [Русский](README.md) · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · **한국어**
+🌍 [Русский](../README.md) · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · **한국어**
 
-![Cubase 플러그인 창 안의 OpenUtau](docs/cubase-pianoroll.png)
+![Cubase 플러그인 창 안의 OpenUtau](cubase-pianoroll.png)
 
 </div>
 
@@ -34,9 +34,9 @@ OpenUtau DAW는 노래 편집기 [OpenUtau](https://github.com/stakira/OpenUtau)
 
 | | |
 |---|---|
-| ![Instrument 트랙 위의 플러그인](docs/cubase-plugin.png) | ![OpenUtau 창은 플러그인 위에 열립니다](docs/settings-inside.png) |
+| ![Instrument 트랙 위의 플러그인](cubase-plugin.png) | ![OpenUtau 창은 플러그인 위에 열립니다](settings-inside.png) |
 | Instrument 트랙 위의 플러그인 | OpenUtau 창은 플러그인 위에 열립니다 |
-| ![내장 사용 설명서](docs/guide.png) | ![언어를 고를 수 있는 설치 프로그램](docs/media/en/installer-welcome.png) |
+| ![내장 사용 설명서](guide.png) | ![언어를 고를 수 있는 설치 프로그램](media/en/installer-welcome.png) |
 | 내장 사용 설명서 | 언어를 고를 수 있는 설치 프로그램 |
 
 ## 설치
@@ -57,7 +57,7 @@ OpenUtau DAW는 노래 편집기 [OpenUtau](https://github.com/stakira/OpenUtau)
 2. OpenUtau에서 음표와 가사를 씁니다. 소리는 Cubase 트랙으로 나옵니다.
 3. 내보내기 전에 플러그인 바의 **초록 점**을 기다리세요.
 
-**[📖 전체 사용 설명서](docs/GUIDE-ko.md)** — 그림 포함, 14개 언어. 프로그램과 함께 설치되며 OpenUtau에서 열 수 있습니다: *도움말 → “OpenUtau DAW 사용 설명서”*.
+**[📖 전체 사용 설명서](GUIDE-ko.md)** — 그림 포함, 14개 언어. 프로그램과 함께 설치되며 OpenUtau에서 열 수 있습니다: *도움말 → “OpenUtau DAW 사용 설명서”*.
 
 ## 파일 확인
 

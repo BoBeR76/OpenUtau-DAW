@@ -11,7 +11,7 @@
 
 [**⬇ Скачать установщик**](../../releases/latest) · [**📖 Инструкция**](docs/GUIDE.md)
 
-🌍 **Русский** · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
+🌍 **Русский** · [English](docs/README.en.md) · [Українська](docs/README.uk.md) · [日本語](docs/README.ja.md) · [Español](docs/README.es.md) · [Deutsch](docs/README.de.md) · [Français](docs/README.fr.md) · [Italiano](docs/README.it.md) · [Português](docs/README.pt.md) · [Polski](docs/README.pl.md) · [Čeština](docs/README.cs.md) · [Türkçe](docs/README.tr.md) · [简体中文](docs/README.zh.md) · [한국어](docs/README.ko.md)
 
 ![OpenUtau в окне плагина Cubase](docs/cubase-pianoroll.png)
 

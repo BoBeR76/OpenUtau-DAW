@@ -9,11 +9,11 @@
 ![Formats](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Languages](https://img.shields.io/badge/languages-14-3aa7e0)
 
-[**⬇ Download the installer**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 Guide**](docs/GUIDE-en.md)
+[**⬇ Download the installer**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 Guide**](GUIDE-en.md)
 
-🌍 [Русский](README.md) · **English** · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
+🌍 [Русский](../README.md) · **English** · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
 
-![OpenUtau in the Cubase plug-in window](docs/cubase-pianoroll.png)
+![OpenUtau in the Cubase plug-in window](cubase-pianoroll.png)
 
 </div>
 
@@ -34,9 +34,9 @@ OpenUtau DAW is a plug-in for Cubase that opens the [OpenUtau](https://github.co
 
 | | |
 |---|---|
-| ![The plug-in on an Instrument track](docs/cubase-plugin.png) | ![OpenUtau dialogs open over the plug-in](docs/settings-inside.png) |
+| ![The plug-in on an Instrument track](cubase-plugin.png) | ![OpenUtau dialogs open over the plug-in](settings-inside.png) |
 | The plug-in on an Instrument track | OpenUtau dialogs open over the plug-in |
-| ![Built-in guide](docs/guide.png) | ![Installer with language choice](docs/media/en/installer-welcome.png) |
+| ![Built-in guide](guide.png) | ![Installer with language choice](media/en/installer-welcome.png) |
 | Built-in guide | Installer with language choice |
 
 ## Installation
@@ -57,7 +57,7 @@ A new version installs over the old one; OpenUtau settings, voicebanks and proje
 2. Write notes and lyrics in OpenUtau — the sound goes through the Cubase track.
 3. Before exporting, wait for the **green dot** in the plug-in bar.
 
-**[📖 Full guide](docs/GUIDE-en.md)** — with pictures, in 14 languages. It is also installed with the program and opens in OpenUtau: *Help → "OpenUtau DAW Guide"*.
+**[📖 Full guide](GUIDE-en.md)** — with pictures, in 14 languages. It is also installed with the program and opens in OpenUtau: *Help → "OpenUtau DAW Guide"*.
 
 ## Checking the files
 

@@ -9,11 +9,11 @@
 ![Formats](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Languages](https://img.shields.io/badge/languages-14-3aa7e0)
 
-[**⬇ Kurulum programını indir**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 Kılavuz**](docs/GUIDE-tr.md)
+[**⬇ Kurulum programını indir**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 Kılavuz**](GUIDE-tr.md)
 
-🌍 [Русский](README.md) · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · **Türkçe** · [简体中文](README.zh.md) · [한국어](README.ko.md)
+🌍 [Русский](../README.md) · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · **Türkçe** · [简体中文](README.zh.md) · [한국어](README.ko.md)
 
-![Cubase eklenti penceresinde OpenUtau](docs/cubase-pianoroll.png)
+![Cubase eklenti penceresinde OpenUtau](cubase-pianoroll.png)
 
 </div>
 
@@ -34,9 +34,9 @@ OpenUtau DAW, şarkı düzenleyicisi [OpenUtau](https://github.com/stakira/OpenU
 
 | | |
 |---|---|
-| ![Instrument parçasında eklenti](docs/cubase-plugin.png) | ![OpenUtau pencereleri eklentinin üzerinde açılır](docs/settings-inside.png) |
+| ![Instrument parçasında eklenti](cubase-plugin.png) | ![OpenUtau pencereleri eklentinin üzerinde açılır](settings-inside.png) |
 | Instrument parçasında eklenti | OpenUtau pencereleri eklentinin üzerinde açılır |
-| ![Yerleşik kılavuz](docs/guide.png) | ![Dil seçimli kurulum programı](docs/media/en/installer-welcome.png) |
+| ![Yerleşik kılavuz](guide.png) | ![Dil seçimli kurulum programı](media/en/installer-welcome.png) |
 | Yerleşik kılavuz | Dil seçimli kurulum programı |
 
 ## Kurulum
@@ -57,7 +57,7 @@ Yeni sürüm eskisinin üzerine kurulur; OpenUtau ayarları, ses bankaları ve p
 2. Notaları ve sözleri OpenUtau'da yazın — ses Cubase parçasından gelir.
 3. Dışa aktarmadan önce eklenti çubuğundaki **yeşil noktayı** bekleyin.
 
-**[📖 Tam kılavuz](docs/GUIDE-tr.md)** — resimli, 14 dilde. Programla birlikte de kurulur ve OpenUtau'da açılır: *Yardım → “OpenUtau DAW Kılavuzu”*.
+**[📖 Tam kılavuz](GUIDE-tr.md)** — resimli, 14 dilde. Programla birlikte de kurulur ve OpenUtau'da açılır: *Yardım → “OpenUtau DAW Kılavuzu”*.
 
 ## Dosyaları doğrulama
 
