@@ -20,7 +20,7 @@ Instalowane są: wtyczka **OpenUtau DAW** (VST3 i CLAP), most tempa **OpenUtau D
 
 | | |
 |---|---|
-| ![Wybór języka](installer-welcome.png) | ![Licencja](installer-license.png) |
+| ![Wybór języka](media/en/installer-welcome.png) | ![Licencja](media/en/installer-license.png) |
 
 > **Aktualizacja.** Nowa wersja instaluje się na starej. Ustawienia OpenUtau, banki głosów i projekty pozostają bez zmian.
 
@@ -38,7 +38,7 @@ Instalowane są: wtyczka **OpenUtau DAW** (VST3 i CLAP), most tempa **OpenUtau D
 
 Pasek nad OpenUtau w oknie wtyczki:
 
-![Pasek wtyczki](media/panel.png)
+![Pasek wtyczki](media/en/panel.png)
 
 | Co widać | Co oznacza |
 |---|---|
@@ -80,7 +80,7 @@ Wciśnięte nuty widać w piano rollu OpenUtau — jak w edytorze Cubase:
 
 ## Transport i tempo
 
-![Transport OpenUtau](media/transport.png)
+![Transport OpenUtau](media/en/transport.png)
 
 - **Odtwarzaj, Stop i „na początek”** w OpenUtau (oraz `Spacja`, `Home`) sterują Cubase — gra cały utwór, nie tylko wokal.
 - **Tempo i metrum** OpenUtau bierze z Cubase: zmieniasz BPM — OpenUtau się dostosowuje.
@@ -116,7 +116,7 @@ Most działa tak samo jak w VOCALOID.
 >
 > Wtedy „+” dodaje głos tylko w OpenUtau, a brzmi on na osobnym wyjściu **„Track N”** tej samej wtyczki (włącz je w **F11**).
 
-![Menu ⚙ wtyczki](media/gear-menu.png)
+![Menu ⚙ wtyczki](media/en/gear-menu.png)
 
 ## Zapisywanie i kopie zapasowe
 

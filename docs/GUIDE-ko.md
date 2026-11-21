@@ -20,7 +20,7 @@ OpenUtau DAW는 노래 합성 편집기 OpenUtau를 Cubase 플러그인 창 안�
 
 | | |
 |---|---|
-| ![언어 선택](installer-welcome.png) | ![사용권 계약](installer-license.png) |
+| ![언어 선택](media/en/installer-welcome.png) | ![사용권 계약](media/en/installer-license.png) |
 
 > **업데이트.** 새 버전은 이전 버전 위에 덮어서 설치됩니다. OpenUtau 설정, 음원, 프로젝트는 그대로 유지됩니다.
 
@@ -38,7 +38,7 @@ OpenUtau DAW는 노래 합성 편집기 OpenUtau를 Cubase 플러그인 창 안�
 
 플러그인 창에서 OpenUtau 위에 있는 막대:
 
-![플러그인 바](media/panel.png)
+![플러그인 바](media/en/panel.png)
 
 | 표시 | 의미 |
 |---|---|
@@ -80,7 +80,7 @@ OpenUtau DAW는 노래 합성 편집기 OpenUtau를 Cubase 플러그인 창 안�
 
 ## 트랜스포트와 템포
 
-![OpenUtau 트랜스포트](media/transport.png)
+![OpenUtau 트랜스포트](media/en/transport.png)
 
 - OpenUtau의 **재생, 정지, “처음으로”**(및 `Space`, `Home`)가 Cubase를 제어합니다. 보컬만이 아니라 곡 전체가 재생됩니다.
 - OpenUtau는 **템포와 박자표**를 Cubase에서 가져옵니다. BPM을 바꾸면 OpenUtau도 따라갑니다.
@@ -116,7 +116,7 @@ VOCALOID와 같은 방식으로 동작합니다.
 >
 > 그러면 “+”는 OpenUtau에만 목소리를 추가하고, 그 목소리는 같은 플러그인의 **“Track N”** 출력으로 나옵니다(**F11**에서 활성화).
 
-![플러그인 ⚙ 메뉴](media/gear-menu.png)
+![플러그인 ⚙ 메뉴](media/en/gear-menu.png)
 
 ## 저장과 백업
 

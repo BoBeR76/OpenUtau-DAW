@@ -20,7 +20,7 @@ OpenUtau DAW вбудовує редактор співу OpenUtau просто 
 
 | | |
 |---|---|
-| ![Вибір мови](installer-welcome.png) | ![Ліцензія](installer-license.png) |
+| ![Вибір мови](media/en/installer-welcome.png) | ![Ліцензія](media/en/installer-license.png) |
 
 > **Оновлення.** Нова версія ставиться поверх старої. Налаштування OpenUtau, голосові банки та проєкти не змінюються.
 
@@ -38,7 +38,7 @@ OpenUtau DAW вбудовує редактор співу OpenUtau просто 
 
 Смужка над OpenUtau у вікні плагіна:
 
-![Панель плагіна](media/panel.png)
+![Панель плагіна](media/en/panel.png)
 
 | Що видно | Що означає |
 |---|---|
@@ -80,7 +80,7 @@ OpenUtau DAW вбудовує редактор співу OpenUtau просто 
 
 ## Транспорт і темп
 
-![Транспорт OpenUtau](media/transport.png)
+![Транспорт OpenUtau](media/en/transport.png)
 
 - Кнопки **Play, Stop і «на початок»** в OpenUtau (і `Пробіл`, `Home`) керують Cubase — грає вся пісня, а не лише вокал.
 - **Темп і розмір такту** OpenUtau бере з Cubase: змінили BPM — OpenUtau підлаштувався.
@@ -116,7 +116,7 @@ OpenUtau DAW вбудовує редактор співу OpenUtau просто 
 >
 > Тоді «+» додає голос лише в OpenUtau, а звучить він на окремому виході **«Track N»** цього ж плагіна (увімкніть його в **F11**).
 
-![Меню ⚙ плагіна](media/gear-menu.png)
+![Меню ⚙ плагіна](media/en/gear-menu.png)
 
 ## Збереження й резервні копії
 

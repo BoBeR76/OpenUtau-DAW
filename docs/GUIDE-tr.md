@@ -20,7 +20,7 @@ Kurulanlar: **OpenUtau DAW** eklentisi (VST3 ve CLAP), **OpenUtau DAW Bridge** t
 
 | | |
 |---|---|
-| ![Dil seçimi](installer-welcome.png) | ![Lisans](installer-license.png) |
+| ![Dil seçimi](media/en/installer-welcome.png) | ![Lisans](media/en/installer-license.png) |
 
 > **Güncelleme.** Yeni sürüm eskisinin üzerine kurulur. OpenUtau ayarları, ses bankaları ve projeler korunur.
 
@@ -38,7 +38,7 @@ Kurulanlar: **OpenUtau DAW** eklentisi (VST3 ve CLAP), **OpenUtau DAW Bridge** t
 
 Eklenti penceresinde OpenUtau'nun üstündeki şerit:
 
-![Eklenti çubuğu](media/panel.png)
+![Eklenti çubuğu](media/en/panel.png)
 
 | Görünen | Anlamı |
 |---|---|
@@ -80,7 +80,7 @@ Basılan notalar, Cubase düzenleyicisinde olduğu gibi OpenUtau piyano rulosund
 
 ## Aktarım ve tempo
 
-![OpenUtau aktarım düğmeleri](media/transport.png)
+![OpenUtau aktarım düğmeleri](media/en/transport.png)
 
 - OpenUtau'daki **Çal, Durdur ve “başa dön”** (ve `Boşluk`, `Home`) Cubase'i kontrol eder — yalnızca vokal değil, tüm şarkı çalar.
 - OpenUtau **tempoyu ve ölçü birimini** Cubase'den alır: BPM'i değiştirin, OpenUtau uyum sağlar.
@@ -116,7 +116,7 @@ Köprü VOCALOID'dekiyle aynı şekilde çalışır.
 >
 > Bu durumda “+” sesi yalnızca OpenUtau'ya ekler ve ses aynı eklentinin **“Track N”** çıkışında çalar (**F11**'de etkinleştirin).
 
-![Eklentinin ⚙ menüsü](media/gear-menu.png)
+![Eklentinin ⚙ menüsü](media/en/gear-menu.png)
 
 ## Kaydetme ve yedekler
 

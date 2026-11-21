@@ -20,7 +20,7 @@ São instalados o plugin **OpenUtau DAW** (VST3 e CLAP), a ponte de andamento **
 
 | | |
 |---|---|
-| ![Escolha do idioma](installer-welcome.png) | ![Licença](installer-license.png) |
+| ![Escolha do idioma](media/en/installer-welcome.png) | ![Licença](media/en/installer-license.png) |
 
 > **Atualização.** A nova versão é instalada por cima da antiga. Configurações do OpenUtau, voicebanks e projetos são mantidos.
 
@@ -38,7 +38,7 @@ São instalados o plugin **OpenUtau DAW** (VST3 e CLAP), a ponte de andamento **
 
 A faixa acima do OpenUtau na janela do plugin:
 
-![Barra do plugin](media/panel.png)
+![Barra do plugin](media/en/panel.png)
 
 | O que aparece | Significado |
 |---|---|
@@ -80,7 +80,7 @@ As notas pressionadas aparecem no piano roll do OpenUtau, como no editor do Cuba
 
 ## Transporte e andamento
 
-![Transporte do OpenUtau](media/transport.png)
+![Transporte do OpenUtau](media/en/transport.png)
 
 - **Reproduzir, Parar e “ir para o início”** no OpenUtau (e `Espaço`, `Home`) controlam o Cubase — toca a música inteira, não só a voz.
 - O OpenUtau pega **o andamento e a fórmula de compasso** do Cubase: mudou o BPM, o OpenUtau acompanha.
@@ -116,7 +116,7 @@ Funciona da mesma forma que no VOCALOID.
 >
 > Aí o “+” adiciona a voz só no OpenUtau, e ela toca na saída **“Track N”** do mesmo plugin (ative-a em **F11**).
 
-![Menu ⚙ do plugin](media/gear-menu.png)
+![Menu ⚙ do plugin](media/en/gear-menu.png)
 
 ## Salvamento e backups
 

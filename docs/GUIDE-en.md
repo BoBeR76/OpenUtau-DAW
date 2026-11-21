@@ -36,7 +36,7 @@ Installed: the **OpenUtau DAW** plug-in (VST3 and CLAP), the **OpenUtau DAW Brid
 
 | | |
 |---|---|
-| ![Language choice](installer-welcome.png) | ![License](installer-license.png) |
+| ![Language choice](media/en/installer-welcome.png) | ![License](media/en/installer-license.png) |
 
 > **Updating.** A new version installs over the old one. OpenUtau settings, voicebanks and projects are kept.
 
@@ -54,7 +54,7 @@ Installed: the **OpenUtau DAW** plug-in (VST3 and CLAP), the **OpenUtau DAW Brid
 
 The strip above OpenUtau in the plug-in window:
 
-![Plug-in bar](media/panel.png)
+![Plug-in bar](media/en/panel.png)
 
 | What you see | Meaning |
 |---|---|
@@ -96,7 +96,7 @@ Held notes show in the OpenUtau piano roll, just like in Cubase's editor:
 
 ## Transport and tempo
 
-![OpenUtau transport](media/transport.png)
+![OpenUtau transport](media/en/transport.png)
 
 - **Play, Stop and "go to start"** in OpenUtau (and `Space`, `Home`) control Cubase — the whole song plays, not just the vocal.
 - OpenUtau takes **tempo and time signature** from Cubase: change the BPM and OpenUtau follows.
@@ -132,7 +132,7 @@ It works the same way as with VOCALOID.
 >
 > Then "+" adds the voice only in OpenUtau, and it plays on the plug-in's own **"Track N"** output (enable it in **F11**). Handy if you don't want extra tracks in the project or mix voices through the outputs.
 
-![Plug-in ⚙ menu](media/gear-menu.png)
+![Plug-in ⚙ menu](media/en/gear-menu.png)
 
 ## Saving and backups
 

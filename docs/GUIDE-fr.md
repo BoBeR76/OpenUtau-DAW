@@ -20,7 +20,7 @@ Sont installés le plugin **OpenUtau DAW** (VST3 et CLAP), le pont de tempo **Op
 
 | | |
 |---|---|
-| ![Choix de la langue](installer-welcome.png) | ![Licence](installer-license.png) |
+| ![Choix de la langue](media/en/installer-welcome.png) | ![Licence](media/en/installer-license.png) |
 
 > **Mise à jour.** La nouvelle version s'installe par-dessus l'ancienne. Les réglages d'OpenUtau, les banques de voix et les projets sont conservés.
 
@@ -38,7 +38,7 @@ Sont installés le plugin **OpenUtau DAW** (VST3 et CLAP), le pont de tempo **Op
 
 La bande au-dessus d'OpenUtau dans la fenêtre du plugin :
 
-![Barre du plugin](media/panel.png)
+![Barre du plugin](media/en/panel.png)
 
 | Affichage | Signification |
 |---|---|
@@ -80,7 +80,7 @@ Les notes enfoncées s'affichent dans le piano roll d'OpenUtau, comme dans l'éd
 
 ## Transport et tempo
 
-![Transport d'OpenUtau](media/transport.png)
+![Transport d'OpenUtau](media/en/transport.png)
 
 - **Lecture, Stop et « retour au début »** dans OpenUtau (ainsi que `Espace`, `Début`) pilotent Cubase : toute la chanson joue, pas seulement la voix.
 - OpenUtau reprend **le tempo et la mesure** de Cubase : changez le BPM, OpenUtau suit.
@@ -116,7 +116,7 @@ Le pont fonctionne comme avec VOCALOID.
 >
 > « + » ajoute alors la voix uniquement dans OpenUtau, et elle sonne sur la sortie **« Track N »** du même plugin (à activer dans **F11**).
 
-![Menu ⚙ du plugin](media/gear-menu.png)
+![Menu ⚙ du plugin](media/en/gear-menu.png)
 
 ## Enregistrement et sauvegardes
 

@@ -20,7 +20,7 @@ OpenUtau DAW 把歌声合成编辑器 OpenUtau 直接嵌入 Cubase 的插件窗�
 
 | | |
 |---|---|
-| ![选择语言](installer-welcome.png) | ![许可协议](installer-license.png) |
+| ![选择语言](media/en/installer-welcome.png) | ![许可协议](media/en/installer-license.png) |
 
 > **更新。** 新版本直接覆盖安装在旧版本上。OpenUtau 的设置、声库和工程都会保留。
 
@@ -38,7 +38,7 @@ OpenUtau DAW 把歌声合成编辑器 OpenUtau 直接嵌入 Cubase 的插件窗�
 
 插件窗口中 OpenUtau 上方的横条：
 
-![插件栏](media/panel.png)
+![插件栏](media/en/panel.png)
 
 | 显示 | 含义 |
 |---|---|
@@ -80,7 +80,7 @@ OpenUtau DAW 把歌声合成编辑器 OpenUtau 直接嵌入 Cubase 的插件窗�
 
 ## 走带与速度
 
-![OpenUtau 走带控制](media/transport.png)
+![OpenUtau 走带控制](media/en/transport.png)
 
 - OpenUtau 中的**播放、停止和“回到开头”**（以及 `空格`、`Home`）会控制 Cubase——播放的是整首歌，而不只是人声。
 - OpenUtau 从 Cubase 获取**速度和拍号**：修改 BPM，OpenUtau 随之调整。
@@ -116,7 +116,7 @@ OpenUtau DAW 把歌声合成编辑器 OpenUtau 直接嵌入 Cubase 的插件窗�
 >
 > 这样“+”只在 OpenUtau 中添加声部，它会从同一插件的 **“Track N”** 输出发声（在 **F11** 中启用）。
 
-![插件的 ⚙ 菜单](media/gear-menu.png)
+![插件的 ⚙ 菜单](media/en/gear-menu.png)
 
 ## 保存与备份
 

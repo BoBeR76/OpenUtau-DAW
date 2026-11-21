@@ -20,7 +20,7 @@ Installiert werden das Plug-in **OpenUtau DAW** (VST3 und CLAP), die Tempo-Brüc
 
 | | |
 |---|---|
-| ![Sprachauswahl](installer-welcome.png) | ![Lizenz](installer-license.png) |
+| ![Sprachauswahl](media/en/installer-welcome.png) | ![Lizenz](media/en/installer-license.png) |
 
 > **Update.** Eine neue Version wird über die alte installiert. OpenUtau-Einstellungen, Stimmbanken und Projekte bleiben erhalten.
 
@@ -38,7 +38,7 @@ Installiert werden das Plug-in **OpenUtau DAW** (VST3 und CLAP), die Tempo-Brüc
 
 Die Leiste über OpenUtau im Plug-in-Fenster:
 
-![Plug-in-Leiste](media/panel.png)
+![Plug-in-Leiste](media/en/panel.png)
 
 | Anzeige | Bedeutung |
 |---|---|
@@ -80,7 +80,7 @@ Gehaltene Noten sind in der Pianorolle von OpenUtau zu sehen – wie im Cubase-E
 
 ## Transport und Tempo
 
-![OpenUtau-Transport](media/transport.png)
+![OpenUtau-Transport](media/en/transport.png)
 
 - **Abspielen, Stopp und „zum Anfang“** in OpenUtau (sowie `Leertaste`, `Pos1`) steuern Cubase – es spielt das ganze Lied, nicht nur der Gesang.
 - **Tempo und Taktart** übernimmt OpenUtau aus Cubase: BPM geändert – OpenUtau folgt.
@@ -116,7 +116,7 @@ Die Brücke funktioniert genauso wie bei VOCALOID.
 >
 > Dann fügt „+“ die Stimme nur in OpenUtau hinzu, und sie erklingt am eigenen Ausgang **„Track N“** dieses Plug-ins (in **F11** aktivieren).
 
-![Plug-in-Menü ⚙](media/gear-menu.png)
+![Plug-in-Menü ⚙](media/en/gear-menu.png)
 
 ## Speichern und Sicherungen
 

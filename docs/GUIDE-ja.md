@@ -20,7 +20,7 @@ OpenUtau DAW は、歌声合成エディター OpenUtau を Cubase のプラグ�
 
 | | |
 |---|---|
-| ![言語の選択](installer-welcome.png) | ![使用許諾](installer-license.png) |
+| ![言語の選択](media/en/installer-welcome.png) | ![使用許諾](media/en/installer-license.png) |
 
 > **アップデート。** 新しいバージョンは古いバージョンに上書きでインストールされます。OpenUtau の設定、音源、プロジェクトはそのまま残ります。
 
@@ -38,7 +38,7 @@ OpenUtau DAW は、歌声合成エディター OpenUtau を Cubase のプラグ�
 
 プラグインウィンドウで OpenUtau の上にあるバー:
 
-![プラグインバー](media/panel.png)
+![プラグインバー](media/en/panel.png)
 
 | 表示 | 意味 |
 |---|---|
@@ -80,7 +80,7 @@ OpenUtau DAW は、歌声合成エディター OpenUtau を Cubase のプラグ�
 
 ## トランスポートとテンポ
 
-![OpenUtau のトランスポート](media/transport.png)
+![OpenUtau のトランスポート](media/en/transport.png)
 
 - OpenUtau の**再生・停止・先頭へ戻る**（および `Space`、`Home`）で Cubase を操作できます。ボーカルだけでなく曲全体が鳴ります。
 - OpenUtau は **テンポと拍子** を Cubase から受け取ります。BPM を変えれば OpenUtau も追従します。
@@ -116,7 +116,7 @@ VOCALOID と同じ仕組みです。
 >
 > すると「+」は OpenUtau にだけ声を追加し、その声は同じプラグインの **「Track N」** 出力から鳴ります（**F11** で有効にします）。
 
-![プラグインの ⚙ メニュー](media/gear-menu.png)
+![プラグインの ⚙ メニュー](media/en/gear-menu.png)
 
 ## 保存とバックアップ
 

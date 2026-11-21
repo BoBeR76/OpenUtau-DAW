@@ -20,7 +20,7 @@ Vengono installati il plugin **OpenUtau DAW** (VST3 e CLAP), il ponte del tempo 
 
 | | |
 |---|---|
-| ![Scelta della lingua](installer-welcome.png) | ![Licenza](installer-license.png) |
+| ![Scelta della lingua](media/en/installer-welcome.png) | ![Licenza](media/en/installer-license.png) |
 
 > **Aggiornamento.** La nuova versione si installa sopra la precedente. Impostazioni di OpenUtau, voicebank e progetti restano invariati.
 
@@ -38,7 +38,7 @@ Vengono installati il plugin **OpenUtau DAW** (VST3 e CLAP), il ponte del tempo 
 
 La striscia sopra OpenUtau nella finestra del plugin:
 
-![Barra del plugin](media/panel.png)
+![Barra del plugin](media/en/panel.png)
 
 | Cosa vedi | Significato |
 |---|---|
@@ -80,7 +80,7 @@ Le note premute si vedono nel piano roll di OpenUtau, come nell'editor di Cubase
 
 ## Trasporto e tempo
 
-![Trasporto di OpenUtau](media/transport.png)
+![Trasporto di OpenUtau](media/en/transport.png)
 
 - **Play, Stop e «all'inizio»** in OpenUtau (e `Spazio`, `Home`) controllano Cubase: suona tutto il brano, non solo la voce.
 - OpenUtau prende **tempo e metro** da Cubase: cambi il BPM e OpenUtau si adegua.
@@ -116,7 +116,7 @@ Il ponte funziona come con VOCALOID.
 >
 > Così «+» aggiunge la voce solo in OpenUtau, e questa suona sull'uscita **«Track N»** dello stesso plugin (attivala in **F11**).
 
-![Menu ⚙ del plugin](media/gear-menu.png)
+![Menu ⚙ del plugin](media/en/gear-menu.png)
 
 ## Salvataggio e backup
 

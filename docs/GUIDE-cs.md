@@ -20,7 +20,7 @@ Nainstaluje se plugin **OpenUtau DAW** (VST3 a CLAP), most tempa **OpenUtau DAW 
 
 | | |
 |---|---|
-| ![Volba jazyka](installer-welcome.png) | ![Licence](installer-license.png) |
+| ![Volba jazyka](media/en/installer-welcome.png) | ![Licence](media/en/installer-license.png) |
 
 > **Aktualizace.** Nová verze se instaluje přes starou. Nastavení OpenUtau, hlasové banky a projekty zůstanou zachovány.
 
@@ -38,7 +38,7 @@ Nainstaluje se plugin **OpenUtau DAW** (VST3 a CLAP), most tempa **OpenUtau DAW 
 
 Pruh nad OpenUtau v okně pluginu:
 
-![Lišta pluginu](media/panel.png)
+![Lišta pluginu](media/en/panel.png)
 
 | Co vidíte | Co to znamená |
 |---|---|
@@ -80,7 +80,7 @@ Stisknuté noty jsou vidět v piano rollu OpenUtau — jako v editoru Cubase:
 
 ## Transport a tempo
 
-![Transport OpenUtau](media/transport.png)
+![Transport OpenUtau](media/en/transport.png)
 
 - **Přehrát, Stop a „na začátek“** v OpenUtau (a `Mezerník`, `Home`) ovládají Cubase — hraje celá píseň, ne jen zpěv.
 - **Tempo a takt** přebírá OpenUtau z Cubase: změníte BPM — OpenUtau se přizpůsobí.
@@ -116,7 +116,7 @@ Most funguje stejně jako u VOCALOIDu.
 >
 > Pak „+“ přidá hlas jen v OpenUtau a ten zní na samostatném výstupu **„Track N“** téhož pluginu (zapněte ho v **F11**).
 
-![Nabídka ⚙ pluginu](media/gear-menu.png)
+![Nabídka ⚙ pluginu](media/en/gear-menu.png)
 
 ## Ukládání a zálohy
 
