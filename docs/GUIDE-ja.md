@@ -11,7 +11,7 @@ OpenUtau DAW は、歌声合成エディター OpenUtau を Cubase のプラグ�
 
 ## インストール
 
-1. [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) から `OpenUtauDAW-Setup-2.7.0.exe` をダウンロードします。
+1. [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) から `OpenUtauDAW-Setup-2.7.1.exe` をダウンロードします。
 2. **Cubase を終了します。** 起動中の場合、インストーラーが終了して「再試行」を押すよう求めます。
 3. 最初のページで言語を選びます。OpenUtau とプラグインバーの言語にもなります。
 4. 使用許諾契約のチェックボックスをオンにします。オンにしないと「次へ」は押せません。

@@ -11,7 +11,7 @@ OpenUtau DAW vkládá editor zpěvu OpenUtau přímo do okna pluginu v Cubase. Z
 
 ## Instalace
 
-1. Stáhněte `OpenUtauDAW-Setup-2.7.0.exe` z [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
+1. Stáhněte `OpenUtauDAW-Setup-2.7.1.exe` z [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
 2. **Zavřete Cubase.** Pokud běží, instalátor vás požádá o jeho zavření a kliknutí na „Zkusit znovu“.
 3. Na první stránce zvolte jazyk — bude to i jazyk OpenUtau a lišty pluginu.
 4. Zaškrtněte políčko licenční smlouvy — bez něj nelze kliknout na „Další“.

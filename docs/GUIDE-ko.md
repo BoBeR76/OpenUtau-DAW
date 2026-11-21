@@ -11,7 +11,7 @@ OpenUtau DAW는 노래 합성 편집기 OpenUtau를 Cubase 플러그인 창 안�
 
 ## 설치
 
-1. [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest)에서 `OpenUtauDAW-Setup-2.7.0.exe`를 내려받습니다.
+1. [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest)에서 `OpenUtauDAW-Setup-2.7.1.exe`를 내려받습니다.
 2. **Cubase를 종료합니다.** 실행 중이면 설치 프로그램이 종료한 뒤 “다시 시도”를 누르라고 안내합니다.
 3. 첫 페이지에서 언어를 고릅니다. 이 언어가 OpenUtau와 플러그인 바의 언어도 됩니다.
 4. 사용권 계약 체크박스를 선택합니다. 선택하지 않으면 “다음”을 누를 수 없습니다.

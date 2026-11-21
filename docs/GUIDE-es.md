@@ -11,7 +11,7 @@ OpenUtau DAW integra el editor de canto OpenUtau directamente en la ventana del 
 
 ## Instalación
 
-1. Descargue `OpenUtauDAW-Setup-2.7.0.exe` desde [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
+1. Descargue `OpenUtauDAW-Setup-2.7.1.exe` desde [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
 2. **Cierre Cubase.** Si está abierto, el instalador pedirá cerrarlo y pulsar «Reintentar».
 3. En la primera página elija el idioma: también será el idioma de OpenUtau y de la barra del plugin.
 4. Marque la casilla del acuerdo de licencia: sin ella «Siguiente» no se activa.

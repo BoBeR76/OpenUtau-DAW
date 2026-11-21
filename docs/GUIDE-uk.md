@@ -11,7 +11,7 @@ OpenUtau DAW вбудовує редактор співу OpenUtau просто 
 
 ## Встановлення
 
-1. Завантажте `OpenUtauDAW-Setup-2.7.0.exe` з [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
+1. Завантажте `OpenUtauDAW-Setup-2.7.1.exe` з [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
 2. **Закрийте Cubase.** Якщо вона відкрита, інсталятор попросить її закрити й натиснути «Повторити».
 3. На першій сторінці виберіть мову — вона ж стане мовою OpenUtau та панелі плагіна.
 4. Поставте галочку ліцензійної угоди — без неї «Далі» не натискається.

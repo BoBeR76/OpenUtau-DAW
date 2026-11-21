@@ -24,7 +24,7 @@ OpenUtau DAW встраивает редактор пения OpenUtau прям�
 
 ## Установка
 
-1. Скачайте `OpenUtauDAW-Setup-2.7.0.exe` из [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
+1. Скачайте `OpenUtauDAW-Setup-2.7.1.exe` из [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
 2. **Закройте Cubase.** Если она открыта, установщик попросит её закрыть и нажать «Повтор».
 3. На первой странице выберите язык — он же станет языком OpenUtau и панели плагина.
 4. Отметьте галочку лицензионного соглашения — без неё «Далее» не нажимается.
