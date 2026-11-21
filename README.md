@@ -22,7 +22,7 @@ OpenUtau DAW — плагин для Cubase, который открывает �
 - 🎤 **OpenUtau в окне плагина.** Добавили Instrument-дорожку — и редактор уже там. Все окна OpenUtau (настройки, певцы, экспорт) открываются поверх него, а не отдельно.
 - ⏱ **Темп и размер из Cubase.** OpenUtau сам подстраивается под проект. Для смены темпа по ходу песни есть ARA-мост **OpenUtau DAW Bridge**.
 - ▶ **Общий транспорт.** Play, Stop и «в начало» в OpenUtau управляют Cubase.
-- 🎹 **Ноты туда и обратно.** MIDI-партию из Cubase можно перетащить в OpenUtau, а часть из OpenUtau — на дорожку Cubase.
+- 🎹 **Ноты туда и обратно.** MIDI-партию из Cubase можно перетащить в OpenUtau, а часть из OpenUtau — на дорожку Cubase. Нажатые на MIDI-клавиатуре ноты подсвечиваются в OpenUtau.
 - 👥 **Несколько голосов.** Каждая дорожка «OpenUtau DAW» — свой голос; «+» в OpenUtau добавляет дорожку и в Cubase. Есть 8 отдельных выходов.
 - 💾 **Всё сохраняется с проектом Cubase,** плюс 10 резервных копий вокала.
 - 🌍 **14 языков:** русский, English, українська, 日本語, español, Deutsch, français, italiano, português, polski, čeština, Türkçe, 简体中文, 한국어.
@@ -83,7 +83,7 @@ OpenUtau DAW не связан со Steinberg, Yamaha, Celemony или авто�
 - OpenUtau opens inside the plug-in; all of its dialogs open over it, not as separate windows.
 - Follows Cubase's tempo and time signature; the **OpenUtau DAW Bridge** ARA extension handles tempo changes.
 - OpenUtau's Play / Stop / Home drive Cubase.
-- Drag MIDI parts from Cubase into OpenUtau and parts from OpenUtau back to Cubase.
+- Drag MIDI parts from Cubase into OpenUtau and parts from OpenUtau back to Cubase; keys held on a MIDI keyboard light up in OpenUtau.
 - One voice per "OpenUtau DAW" track, 8 extra outputs, saved with the Cubase project plus 10 vocal backups.
 - 14 languages.
 
