@@ -120,7 +120,12 @@ It works the same way as with VOCALOID.
 
 ![Cubase track colour follows into OpenUtau](media/13.gif)
 
-> Don't want "+" to create a Cubase track? **⚙ → "The “+” button in OpenUtau also adds a Cubase track"** — untick it.
+### ⚙ If "+" should not create a Cubase track
+
+> [!TIP]
+> **Want several voices on one Cubase track?** Click **⚙** at the right end of the plug-in bar and untick **"The “+” button in OpenUtau also adds a Cubase track"**.
+>
+> Then "+" adds the voice only in OpenUtau, and it plays on the plug-in's own **"Track N"** output (enable it in **F11**). Handy if you don't want extra tracks in the project or mix voices through the outputs.
 
 ![Plug-in ⚙ menu](media/gear-menu.png)
 
