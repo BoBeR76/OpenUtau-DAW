@@ -11,7 +11,7 @@
 
 [**⬇ Descargar el instalador**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 Guía**](GUIDE-es.md)
 
-🌍 [Русский](../README.md) · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · **Español** · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
+🌍 [English](../README.md) · [Русский](README.ru.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · **Español** · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [한국어](README.ko.md)
 
 ![OpenUtau en la ventana del plugin de Cubase](cubase-pianoroll.png)
 

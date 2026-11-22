@@ -11,7 +11,7 @@
 
 [**⬇ 下载安装程序**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 使用说明**](GUIDE-zh.md)
 
-🌍 [Русский](../README.md) · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · **简体中文** · [한국어](README.ko.md)
+🌍 [English](../README.md) · [Русский](README.ru.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · **简体中文** · [한국어](README.ko.md)
 
 ![Cubase 插件窗口中的 OpenUtau](cubase-pianoroll.png)
 

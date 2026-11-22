@@ -11,7 +11,7 @@
 
 [**⬇ 설치 프로그램 내려받기**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) · [**📖 사용 설명서**](GUIDE-ko.md)
 
-🌍 [Русский](../README.md) · [English](README.en.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · **한국어**
+🌍 [English](../README.md) · [Русский](README.ru.md) · [Українська](README.uk.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Čeština](README.cs.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · **한국어**
 
 ![Cubase 플러그인 창 안의 OpenUtau](cubase-pianoroll.png)
 
