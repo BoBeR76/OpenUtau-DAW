@@ -27,7 +27,7 @@ OpenUtau DAW puts the OpenUtau singing editor right inside a Cubase plug-in wind
 
 ## Installation
 
-1. Download `OpenUtauDAW-Setup-2.7.2.exe` from [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
+1. Download `OpenUtauDAW-Setup-2.7.3.exe` from [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
 2. **Close Cubase.** If it is running, the installer asks you to close it and press "Retry".
 3. Choose the language on the first page — it becomes the language of OpenUtau and the plug-in bar.
 4. Tick the license agreement box — "Next" stays disabled until you do.

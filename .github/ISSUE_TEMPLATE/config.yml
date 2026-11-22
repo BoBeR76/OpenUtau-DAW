@@ -1,5 +1,8 @@
 blank_issues_enabled: true
 contact_links:
+  - name: 💬 Questions / Вопросы
+    url: https://github.com/BoBeR76/OpenUtau-DAW/discussions
+    about: How do I…? Ask in Discussions. / Как сделать…? Спросите в Discussions.
   - name: 📖 Guide / Инструкция
     url: https://github.com/BoBeR76/OpenUtau-DAW/blob/main/docs/GUIDE-en.md
     about: Most questions are answered here. / Ответы на многие вопросы — здесь.

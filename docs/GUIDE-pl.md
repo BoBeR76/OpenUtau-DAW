@@ -11,7 +11,7 @@ OpenUtau DAW osadza edytor śpiewu OpenUtau bezpośrednio w oknie wtyczki Cubase
 
 ## Instalacja
 
-1. Pobierz `OpenUtauDAW-Setup-2.7.2.exe` z [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
+1. Pobierz `OpenUtauDAW-Setup-2.7.3.exe` z [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
 2. **Zamknij Cubase.** Jeśli jest otwarty, instalator poprosi o jego zamknięcie i kliknięcie „Ponów”.
 3. Na pierwszej stronie wybierz język — będzie to też język OpenUtau i paska wtyczki.
 4. Zaznacz pole umowy licencyjnej — bez tego „Dalej” jest nieaktywne.

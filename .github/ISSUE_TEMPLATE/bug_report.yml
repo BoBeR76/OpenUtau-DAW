@@ -11,8 +11,8 @@ body:
     id: version
     attributes:
       label: OpenUtau DAW version / Версия OpenUtau DAW
-      description: Shown on the plug-in bar and in the installer name, e.g. 2.7.2. / Видна на панели плагина и в имени установщика, например 2.7.2.
-      placeholder: "2.7.2"
+      description: Shown in the OpenUtau window title and the installer name, e.g. 2.7.3. / Видна в заголовке окна OpenUtau и в имени установщика, например 2.7.3.
+      placeholder: "2.7.3"
     validations:
       required: true
   - type: input
@@ -54,5 +54,5 @@ body:
     attributes:
       label: Logs / Логи
       description: |
-        Optional. Press Win+R, type `%TEMP%\OpenUtau` and attach the newest `bridge-*.log`.
-        Необязательно. Нажмите Win+R, введите `%TEMP%\OpenUtau` и приложите самый свежий `bridge-*.log`.
+        Optional. In the plug-in's ⚙ menu choose "Open the log folder" (or press Win+R and type `%TEMP%\OpenUtau`) and attach the newest `bridge-*.log`.
+        Необязательно. В меню ⚙ плагина выберите «Открыть папку с логами» (или нажмите Win+R и введите `%TEMP%\OpenUtau`) и приложите самый свежий `bridge-*.log`.

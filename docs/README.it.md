@@ -4,7 +4,7 @@
 
 **OpenUtau direttamente dentro Cubase — come VOCALOID, ma gratis**
 
-![Version](https://img.shields.io/badge/version-2.7.2-ff6fa0)
+![Version](https://img.shields.io/badge/version-2.7.3-ff6fa0)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011%20x64-2b2b2b)
 ![Formats](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Languages](https://img.shields.io/badge/languages-14-3aa7e0)
@@ -41,7 +41,7 @@ OpenUtau DAW è un plugin per Cubase che apre l'editor di canto [OpenUtau](https
 
 ## Installazione
 
-1. Scarica `OpenUtauDAW-Setup-2.7.2.exe` (o lo zip che lo contiene) da [**Releases**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
+1. Scarica `OpenUtauDAW-Setup-2.7.3.exe` (o lo zip che lo contiene) da [**Releases**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
 2. **Chiudi Cubase**, altrimenti il file del plugin è in uso.
 3. Avvia l'installer, scegli la lingua, accetta il contratto di licenza.
 4. Apri Cubase e aggiungi una traccia instrument con il plugin **OpenUtau DAW**.
