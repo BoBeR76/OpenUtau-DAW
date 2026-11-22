@@ -1,0 +1,16 @@
+name: 💡 Idea / Идея
+description: Suggest an improvement. / Предложить улучшение.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like? / Что бы вы хотели?
+      description: Describe the idea and how you would use it. / Опишите идею и как вы бы ей пользовались.
+    validations:
+      required: true
+  - type: input
+    id: daw
+    attributes:
+      label: Your DAW / Ваша DAW
+      placeholder: "Cubase Pro 15"

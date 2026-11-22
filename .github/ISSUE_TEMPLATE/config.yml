@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📖 Guide / Инструкция
+    url: https://github.com/BoBeR76/OpenUtau-DAW/blob/main/docs/GUIDE-en.md
+    about: Most questions are answered here. / Ответы на многие вопросы — здесь.
+  - name: OpenUtau itself / Сам OpenUtau
+    url: https://github.com/stakira/OpenUtau/issues
+    about: Problems of OpenUtau not related to the DAW plug-in. / Проблемы самого OpenUtau, не связанные с плагином.

@@ -1,0 +1,58 @@
+name: 🐞 Bug report / Сообщить об ошибке
+description: Something doesn't work as it should. / Что-то работает не так.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting! You can write in English or Russian.
+        Спасибо, что сообщаете! Можно писать по-английски или по-русски.
+  - type: input
+    id: version
+    attributes:
+      label: OpenUtau DAW version / Версия OpenUtau DAW
+      description: Shown on the plug-in bar and in the installer name, e.g. 2.7.2. / Видна на панели плагина и в имени установщика, например 2.7.2.
+      placeholder: "2.7.2"
+    validations:
+      required: true
+  - type: input
+    id: daw
+    attributes:
+      label: DAW and its version / DAW и её версия
+      placeholder: "Cubase Pro 15.0.30"
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version / Версия Windows
+      placeholder: "Windows 11 24H2"
+  - type: textarea
+    id: steps
+    attributes:
+      label: What did you do? / Что вы делали?
+      description: Step by step, so it can be repeated. / По шагам, чтобы можно было повторить.
+      placeholder: |
+        1. Added an Instrument track with OpenUtau DAW
+        2. Opened Tools → Preferences
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: What happened and what did you expect? / Что произошло и что ожидали?
+    validations:
+      required: true
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots or video / Скриншоты или видео
+      description: Drag files here. / Перетащите файлы сюда.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / Логи
+      description: |
+        Optional. Press Win+R, type `%TEMP%\OpenUtau` and attach the newest `bridge-*.log`.
+        Необязательно. Нажмите Win+R, введите `%TEMP%\OpenUtau` и приложите самый свежий `bridge-*.log`.
