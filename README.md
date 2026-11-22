@@ -18,7 +18,7 @@
 </div>
 
 > [!NOTE]
-> This page was translated with a machine translator: the author is a Russian speaker. Corrections are welcome in [Issues](https://github.com/BoBeR76/OpenUtau-DAW/issues).
+> This page was translated with a machine translator: the author does not speak English. Corrections are welcome in [Issues](https://github.com/BoBeR76/OpenUtau-DAW/issues).
 
 ## What is it
 
