@@ -4,7 +4,7 @@
 
 **OpenUtau просто всередині Cubase — як VOCALOID, тільки безкоштовно**
 
-![Version](https://img.shields.io/badge/version-2.7.1-ff6fa0)
+![Version](https://img.shields.io/badge/version-2.7.2-ff6fa0)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011%20x64-2b2b2b)
 ![Formats](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Languages](https://img.shields.io/badge/languages-14-3aa7e0)
@@ -41,7 +41,7 @@ OpenUtau DAW — плагін для Cubase, який відкриває ред�
 
 ## Встановлення
 
-1. Завантажте `OpenUtauDAW-Setup-2.7.1.exe` (або zip-архів із ним) з розділу [**Releases**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
+1. Завантажте `OpenUtauDAW-Setup-2.7.2.exe` (або zip-архів із ним) з розділу [**Releases**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
 2. **Закрийте Cubase** — інакше файл плагіна буде зайнятий.
 3. Запустіть інсталятор, виберіть мову, прийміть ліцензійну угоду.
 4. Відкрийте Cubase і додайте Instrument-доріжку з плагіном **OpenUtau DAW**.

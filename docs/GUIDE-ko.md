@@ -11,7 +11,7 @@ OpenUtau DAW는 노래 합성 편집기 OpenUtau를 Cubase 플러그인 창 안�
 
 ## 설치
 
-1. [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest)에서 `OpenUtauDAW-Setup-2.7.1.exe`를 내려받습니다.
+1. [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest)에서 `OpenUtauDAW-Setup-2.7.2.exe`를 내려받습니다.
 2. **Cubase를 종료합니다.** 실행 중이면 설치 프로그램이 종료한 뒤 “다시 시도”를 누르라고 안내합니다.
 3. 첫 페이지에서 언어를 고릅니다. 이 언어가 OpenUtau와 플러그인 바의 언어도 됩니다.
 4. 사용권 계약 체크박스를 선택합니다. 선택하지 않으면 “다음”을 누를 수 없습니다.
@@ -126,6 +126,7 @@ VOCALOID와 같은 방식으로 동작합니다.
 ## 알아 두면 좋은 점
 
 - 🔁 **자동 재시작.** OpenUtau가 멈추면 플러그인이 다시 시작합니다. 보컬은 사라지지 않습니다.
+- 🔔 **새 버전 알림.** 업데이트가 나오면 플러그인 바에 다운로드 페이지를 여는 “⬆ 업데이트” 버튼이 나타납니다. ⚙에서 끌 수 있습니다.
 - 🪟 **플러그인 위에 열리는 창.** OpenUtau의 설정, 가수, 메시지 창은 플러그인 창 위에 열리므로 Cubase가 숨기지 않습니다.
 - 🎚 **개별 출력.** OpenUtau 트랙마다 하나씩, 스테레오 출력 “Track 1…8” 8개(F11에서 활성화).
 - ⏳ **내보내기는 렌더링을 기다립니다.** OpenUtau가 아직 소리를 준비 중이면 Audio Mixdown이 기다립니다.

@@ -4,7 +4,7 @@
 
 **OpenUtau prosto w Cubase — jak VOCALOID, tylko za darmo**
 
-![Version](https://img.shields.io/badge/version-2.7.1-ff6fa0)
+![Version](https://img.shields.io/badge/version-2.7.2-ff6fa0)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011%20x64-2b2b2b)
 ![Formats](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Languages](https://img.shields.io/badge/languages-14-3aa7e0)
@@ -41,7 +41,7 @@ OpenUtau DAW to wtyczka do Cubase, która otwiera edytor śpiewu [OpenUtau](http
 
 ## Instalacja
 
-1. Pobierz `OpenUtauDAW-Setup-2.7.1.exe` (lub archiwum zip z nim) z [**Releases**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
+1. Pobierz `OpenUtauDAW-Setup-2.7.2.exe` (lub archiwum zip z nim) z [**Releases**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
 2. **Zamknij Cubase** — inaczej plik wtyczki będzie zajęty.
 3. Uruchom instalator, wybierz język, zaakceptuj umowę licencyjną.
 4. Otwórz Cubase i dodaj ścieżkę instrumentu z wtyczką **OpenUtau DAW**.

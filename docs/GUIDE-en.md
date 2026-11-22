@@ -27,7 +27,7 @@ OpenUtau DAW puts the OpenUtau singing editor right inside a Cubase plug-in wind
 
 ## Installation
 
-1. Download `OpenUtauDAW-Setup-2.7.1.exe` from [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
+1. Download `OpenUtauDAW-Setup-2.7.2.exe` from [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
 2. **Close Cubase.** If it is running, the installer asks you to close it and press "Retry".
 3. Choose the language on the first page — it becomes the language of OpenUtau and the plug-in bar.
 4. Tick the license agreement box — "Next" stays disabled until you do.
@@ -142,6 +142,7 @@ It works the same way as with VOCALOID.
 ## Nice little things
 
 - 🔁 **Auto-restart.** If OpenUtau crashes, the plug-in restarts it. The vocal is not lost.
+- 🔔 **New versions.** When an update is out, the plug-in bar shows an "⬆ Update" button that opens the download page. It can be turned off in ⚙.
 - 🪟 **Dialogs over the plug-in.** Preferences, singers and messages open over the plug-in window — Cubase doesn't hide it.
 - 🎚 **Separate outputs.** 8 stereo outputs "Track 1…8", one per OpenUtau track (enable them in F11).
 - ⏳ **Export waits for rendering.** If OpenUtau is still rendering, Audio Mixdown waits.

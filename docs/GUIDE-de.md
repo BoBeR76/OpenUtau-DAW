@@ -11,7 +11,7 @@ OpenUtau DAW bettet den Gesangseditor OpenUtau direkt in das Plug-in-Fenster von
 
 ## Installation
 
-1. Laden Sie `OpenUtauDAW-Setup-2.7.1.exe` unter [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) herunter.
+1. Laden Sie `OpenUtauDAW-Setup-2.7.2.exe` unter [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) herunter.
 2. **Schließen Sie Cubase.** Läuft Cubase noch, bittet das Setup darum, es zu schließen und auf „Wiederholen“ zu klicken.
 3. Wählen Sie auf der ersten Seite die Sprache – sie wird auch die Sprache von OpenUtau und der Plug-in-Leiste.
 4. Setzen Sie das Häkchen beim Lizenzvertrag – vorher lässt sich „Weiter“ nicht anklicken.
@@ -126,6 +126,7 @@ Die Brücke funktioniert genauso wie bei VOCALOID.
 ## Kleine Annehmlichkeiten
 
 - 🔁 **Automatischer Neustart.** Stürzt OpenUtau ab, startet das Plug-in es neu. Der Gesang geht nicht verloren.
+- 🔔 **Neue Versionen.** Gibt es ein Update, zeigt die Plug-in-Leiste die Schaltfläche „⬆ Update“, die die Download-Seite öffnet. Abschaltbar in ⚙.
 - 🪟 **Dialoge über dem Plug-in.** Einstellungen, Sänger und Meldungen von OpenUtau öffnen sich über dem Plug-in-Fenster – Cubase blendet es nicht aus.
 - 🎚 **Separate Ausgänge.** 8 Stereoausgänge „Track 1…8“, je einer pro OpenUtau-Spur (in F11 aktivieren).
 - ⏳ **Export wartet aufs Rendern.** Rendert OpenUtau noch, wartet der Audio-Mixdown.

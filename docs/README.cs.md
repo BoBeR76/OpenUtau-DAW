@@ -4,7 +4,7 @@
 
 **OpenUtau přímo v Cubase — jako VOCALOID, jen zdarma**
 
-![Version](https://img.shields.io/badge/version-2.7.1-ff6fa0)
+![Version](https://img.shields.io/badge/version-2.7.2-ff6fa0)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011%20x64-2b2b2b)
 ![Formats](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Languages](https://img.shields.io/badge/languages-14-3aa7e0)
@@ -41,7 +41,7 @@ OpenUtau DAW je plugin pro Cubase, který otevírá editor zpěvu [OpenUtau](htt
 
 ## Instalace
 
-1. Stáhněte `OpenUtauDAW-Setup-2.7.1.exe` (nebo zip s ním) z [**Releases**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
+1. Stáhněte `OpenUtauDAW-Setup-2.7.2.exe` (nebo zip s ním) z [**Releases**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
 2. **Zavřete Cubase** — jinak bude soubor pluginu používán.
 3. Spusťte instalátor, zvolte jazyk, přijměte licenční smlouvu.
 4. Otevřete Cubase a přidejte stopu nástroje s pluginem **OpenUtau DAW**.

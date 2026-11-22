@@ -11,7 +11,7 @@ OpenUtau DAW integra l'editor di canto OpenUtau direttamente nella finestra del 
 
 ## Installazione
 
-1. Scarica `OpenUtauDAW-Setup-2.7.1.exe` da [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
+1. Scarica `OpenUtauDAW-Setup-2.7.2.exe` da [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
 2. **Chiudi Cubase.** Se è aperto, l'installer chiede di chiuderlo e premere «Riprova».
 3. Nella prima pagina scegli la lingua: sarà anche la lingua di OpenUtau e della barra del plugin.
 4. Spunta la casella del contratto di licenza: senza, «Avanti» resta disattivato.
@@ -126,6 +126,7 @@ Il ponte funziona come con VOCALOID.
 ## Piccoli comfort
 
 - 🔁 **Riavvio automatico.** Se OpenUtau si blocca, il plugin lo riavvia. La voce non va persa.
+- 🔔 **Nuove versioni.** Quando esce un aggiornamento, la barra del plugin mostra il pulsante «⬆ Aggiornamento» che apre la pagina di download. Si disattiva in ⚙.
 - 🪟 **Finestre sopra il plugin.** Preferenze, cantanti e messaggi di OpenUtau si aprono sopra la finestra del plugin: Cubase non la nasconde.
 - 🎚 **Uscite separate.** 8 uscite stereo «Track 1…8», una per traccia di OpenUtau (da attivare in F11).
 - ⏳ **L'esportazione attende il rendering.** Se OpenUtau sta ancora preparando il suono, l'Audio Mixdown aspetta.

@@ -4,7 +4,7 @@
 
 **Cubase 안에서 바로 OpenUtau — VOCALOID처럼, 하지만 무료**
 
-![Version](https://img.shields.io/badge/version-2.7.1-ff6fa0)
+![Version](https://img.shields.io/badge/version-2.7.2-ff6fa0)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011%20x64-2b2b2b)
 ![Formats](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Languages](https://img.shields.io/badge/languages-14-3aa7e0)
@@ -41,7 +41,7 @@ OpenUtau DAW는 노래 편집기 [OpenUtau](https://github.com/stakira/OpenUtau)
 
 ## 설치
 
-1. [**Releases**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest)에서 `OpenUtauDAW-Setup-2.7.1.exe`(또는 이를 담은 zip)를 내려받습니다.
+1. [**Releases**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest)에서 `OpenUtauDAW-Setup-2.7.2.exe`(또는 이를 담은 zip)를 내려받습니다.
 2. **Cubase를 종료합니다** — 그렇지 않으면 플러그인 파일이 사용 중입니다.
 3. 설치 프로그램을 실행하고 언어를 고른 뒤 사용권 계약에 동의합니다.
 4. Cubase를 열고 **OpenUtau DAW** 플러그인을 넣은 Instrument 트랙을 추가합니다.

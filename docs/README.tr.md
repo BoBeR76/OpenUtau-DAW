@@ -4,7 +4,7 @@
 
 **OpenUtau doğrudan Cubase içinde — VOCALOID gibi, ama ücretsiz**
 
-![Version](https://img.shields.io/badge/version-2.7.1-ff6fa0)
+![Version](https://img.shields.io/badge/version-2.7.2-ff6fa0)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011%20x64-2b2b2b)
 ![Formats](https://img.shields.io/badge/VST3%20%7C%20CLAP%20%7C%20ARA2-plugin-6f42c1)
 ![Languages](https://img.shields.io/badge/languages-14-3aa7e0)
@@ -41,7 +41,7 @@ OpenUtau DAW, şarkı düzenleyicisi [OpenUtau](https://github.com/stakira/OpenU
 
 ## Kurulum
 
-1. `OpenUtauDAW-Setup-2.7.1.exe` dosyasını (ya da onu içeren zip'i) [**Releases**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) sayfasından indirin.
+1. `OpenUtauDAW-Setup-2.7.2.exe` dosyasını (ya da onu içeren zip'i) [**Releases**](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) sayfasından indirin.
 2. **Cubase'i kapatın** — yoksa eklenti dosyası kullanımda olur.
 3. Kurulum programını çalıştırın, dili seçin, lisans sözleşmesini kabul edin.
 4. Cubase'i açın ve **OpenUtau DAW** eklentili bir Instrument parçası ekleyin.

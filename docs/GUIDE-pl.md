@@ -11,7 +11,7 @@ OpenUtau DAW osadza edytor śpiewu OpenUtau bezpośrednio w oknie wtyczki Cubase
 
 ## Instalacja
 
-1. Pobierz `OpenUtauDAW-Setup-2.7.1.exe` z [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
+1. Pobierz `OpenUtauDAW-Setup-2.7.2.exe` z [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
 2. **Zamknij Cubase.** Jeśli jest otwarty, instalator poprosi o jego zamknięcie i kliknięcie „Ponów”.
 3. Na pierwszej stronie wybierz język — będzie to też język OpenUtau i paska wtyczki.
 4. Zaznacz pole umowy licencyjnej — bez tego „Dalej” jest nieaktywne.
@@ -126,6 +126,7 @@ Most działa tak samo jak w VOCALOID.
 ## Drobne udogodnienia
 
 - 🔁 **Automatyczny restart.** Jeśli OpenUtau się zawiesi, wtyczka go uruchomi ponownie. Wokal nie przepada.
+- 🔔 **Nowe wersje.** Gdy wyjdzie aktualizacja, na pasku wtyczki pojawia się przycisk „⬆ Aktualizacja”, który otwiera stronę pobierania. Wyłącza się go w ⚙.
 - 🪟 **Okna nad wtyczką.** Ustawienia, śpiewacy i komunikaty OpenUtau otwierają się nad oknem wtyczki — Cubase go nie ukrywa.
 - 🎚 **Osobne wyjścia.** 8 wyjść stereo „Track 1…8”, po jednym na ścieżkę OpenUtau (włączane w F11).
 - ⏳ **Eksport czeka na render.** Jeśli OpenUtau jeszcze przygotowuje dźwięk, Audio Mixdown poczeka.

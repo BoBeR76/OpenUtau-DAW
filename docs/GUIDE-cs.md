@@ -11,7 +11,7 @@ OpenUtau DAW vkládá editor zpěvu OpenUtau přímo do okna pluginu v Cubase. Z
 
 ## Instalace
 
-1. Stáhněte `OpenUtauDAW-Setup-2.7.1.exe` z [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
+1. Stáhněte `OpenUtauDAW-Setup-2.7.2.exe` z [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest).
 2. **Zavřete Cubase.** Pokud běží, instalátor vás požádá o jeho zavření a kliknutí na „Zkusit znovu“.
 3. Na první stránce zvolte jazyk — bude to i jazyk OpenUtau a lišty pluginu.
 4. Zaškrtněte políčko licenční smlouvy — bez něj nelze kliknout na „Další“.
@@ -126,6 +126,7 @@ Most funguje stejně jako u VOCALOIDu.
 ## Drobné vymoženosti
 
 - 🔁 **Automatický restart.** Když OpenUtau spadne, plugin ho znovu spustí. Zpěv se neztratí.
+- 🔔 **Nové verze.** Když vyjde aktualizace, na liště pluginu se objeví tlačítko „⬆ Aktualizace“, které otevře stránku ke stažení. Vypíná se v ⚙.
 - 🪟 **Okna nad pluginem.** Nastavení, zpěváci a zprávy OpenUtau se otevírají nad oknem pluginu — Cubase ho neskryje.
 - 🎚 **Samostatné výstupy.** 8 stereo výstupů „Track 1…8“, jeden na každou stopu OpenUtau (zapínají se v F11).
 - ⏳ **Export čeká na render.** Pokud OpenUtau ještě připravuje zvuk, Audio Mixdown počká.

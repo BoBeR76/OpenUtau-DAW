@@ -11,7 +11,7 @@ OpenUtau DAW, şarkı sentezi düzenleyicisi OpenUtau'yu doğrudan Cubase eklent
 
 ## Kurulum
 
-1. `OpenUtauDAW-Setup-2.7.1.exe` dosyasını [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) sayfasından indirin.
+1. `OpenUtauDAW-Setup-2.7.2.exe` dosyasını [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) sayfasından indirin.
 2. **Cubase'i kapatın.** Açıksa kurulum programı kapatmanızı ve “Yeniden dene”ye basmanızı ister.
 3. İlk sayfada dili seçin — bu aynı zamanda OpenUtau'nun ve eklenti çubuğunun dili olur.
 4. Lisans sözleşmesinin kutusunu işaretleyin — işaretlemeden “İleri” etkinleşmez.
@@ -126,6 +126,7 @@ Köprü VOCALOID'dekiyle aynı şekilde çalışır.
 ## Küçük kolaylıklar
 
 - 🔁 **Otomatik yeniden başlatma.** OpenUtau çökerse eklenti onu yeniden başlatır. Vokal kaybolmaz.
+- 🔔 **Yeni sürümler.** Bir güncelleme çıktığında eklenti çubuğunda indirme sayfasını açan “⬆ Güncelleme” düğmesi görünür. ⚙ menüsünden kapatılabilir.
 - 🪟 **Eklentinin üzerinde pencereler.** OpenUtau'nun ayarları, şarkıcıları ve mesajları eklenti penceresinin üzerinde açılır — Cubase onu gizlemez.
 - 🎚 **Ayrı çıkışlar.** Her OpenUtau parçası için bir tane olmak üzere 8 stereo çıkış “Track 1…8” (F11'de etkinleştirilir).
 - ⏳ **Dışa aktarma işlemeyi bekler.** OpenUtau hâlâ sesi hazırlıyorsa Audio Mixdown bekler.

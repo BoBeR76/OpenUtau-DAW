@@ -11,7 +11,7 @@ OpenUtau DAW は、歌声合成エディター OpenUtau を Cubase のプラグ�
 
 ## インストール
 
-1. [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) から `OpenUtauDAW-Setup-2.7.1.exe` をダウンロードします。
+1. [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) から `OpenUtauDAW-Setup-2.7.2.exe` をダウンロードします。
 2. **Cubase を終了します。** 起動中の場合、インストーラーが終了して「再試行」を押すよう求めます。
 3. 最初のページで言語を選びます。OpenUtau とプラグインバーの言語にもなります。
 4. 使用許諾契約のチェックボックスをオンにします。オンにしないと「次へ」は押せません。
@@ -126,6 +126,7 @@ VOCALOID と同じ仕組みです。
 ## ちょっとうれしいこと
 
 - 🔁 **自動再起動。** OpenUtau が落ちても、プラグインが再起動します。ボーカルは失われません。
+- 🔔 **新しいバージョン。** 更新が出ると、プラグインバーに「⬆ 更新」ボタンが表示され、ダウンロードページを開けます。⚙ でオフにできます。
 - 🪟 **プラグインの上に開くウィンドウ。** OpenUtau の設定、歌手、メッセージはプラグインウィンドウの上に開くので、Cubase に隠されません。
 - 🎚 **個別出力。** OpenUtau のトラックごとに 1 つ、ステレオ出力「Track 1…8」が 8 つ（F11 で有効化）。
 - ⏳ **書き出しはレンダリングを待ちます。** OpenUtau がまだ音を準備中なら、Audio Mixdown は待機します。

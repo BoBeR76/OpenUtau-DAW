@@ -11,7 +11,7 @@ OpenUtau DAW 把歌声合成编辑器 OpenUtau 直接嵌入 Cubase 的插件窗�
 
 ## 安装
 
-1. 从 [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) 下载 `OpenUtauDAW-Setup-2.7.1.exe`。
+1. 从 [Releases](https://github.com/BoBeR76/OpenUtau-DAW/releases/latest) 下载 `OpenUtauDAW-Setup-2.7.2.exe`。
 2. **关闭 Cubase。** 如果 Cubase 正在运行，安装程序会提示关闭它并点击“重试”。
 3. 在第一页选择语言——它也将是 OpenUtau 和插件栏的语言。
 4. 勾选许可协议复选框——不勾选就无法点击“下一步”。
@@ -126,6 +126,7 @@ OpenUtau DAW 把歌声合成编辑器 OpenUtau 直接嵌入 Cubase 的插件窗�
 ## 贴心小功能
 
 - 🔁 **自动重启。** OpenUtau 崩溃时，插件会自动重新启动它。人声不会丢失。
+- 🔔 **新版本提醒。** 有更新时，插件栏会出现“⬆ 更新”按钮，点击即可打开下载页面。可在 ⚙ 中关闭。
 - 🪟 **窗口显示在插件之上。** OpenUtau 的设置、歌手和提示窗口都显示在插件窗口之上——Cubase 不会把它隐藏。
 - 🎚 **独立输出。** 8 个立体声输出 “Track 1…8”，每条 OpenUtau 音轨一个（在 F11 中启用）。
 - ⏳ **导出会等待渲染。** 如果 OpenUtau 仍在准备声音，Audio Mixdown 会等待。
