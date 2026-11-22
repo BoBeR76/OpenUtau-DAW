@@ -2,7 +2,7 @@
 
 # OpenUtau DAW
 
-**OpenUtau right inside Cubase — like VOCALOID, but free**
+**OpenUtau right inside Cubase — like VOCALOID**
 
 ![Version](https://img.shields.io/badge/version-2.7.3-ff6fa0)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011%20x64-2b2b2b)
