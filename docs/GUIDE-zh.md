@@ -7,7 +7,7 @@
 > [!NOTE]
 > 本说明由机器翻译完成：作者不懂中文。如有不通顺之处，欢迎在 [Issues](https://github.com/BoBeR76/OpenUtau-DAW/issues) 中指正。
 
-OpenUtau DAW 把歌声合成编辑器 OpenUtau 直接嵌入 Cubase 的插件窗口。这里介绍插件新增的功能；OpenUtau 本身的用法不变。*（动画中显示的是俄语界面。）*
+OpenUtau DAW 把歌声合成编辑器 OpenUtau 直接嵌入 Cubase 的插件窗口。这里介绍插件新增的功能；OpenUtau 本身的用法不变。
 
 ## 安装
 
@@ -30,7 +30,7 @@ OpenUtau DAW 把歌声合成编辑器 OpenUtau 直接嵌入 Cubase 的插件窗�
 2. **OpenUtau 会直接在插件窗口中打开**，并自动为该插件创建一条空音轨。
 3. 选择歌手，即可开始编写。
 
-![添加 OpenUtau DAW 音轨](media/01.gif)
+![添加 OpenUtau DAW 音轨](media/en/01.gif)
 
 > 如果列表中没有该插件：*Studio → VST Plug-in Manager → 重新扫描*。
 
@@ -49,7 +49,7 @@ OpenUtau DAW 把歌声合成编辑器 OpenUtau 直接嵌入 Cubase 的插件窗�
 | **MIDI 同步** | 播放时从 Cubase 获取音符（见下文） |
 | **⚙** | 插件设置 |
 
-![没有歌手——红色提示；选好歌手——绿色圆点](media/02.gif)
+![没有歌手——红色提示；选好歌手——绿色圆点](media/en/02.gif)
 
 ## 在 Cubase 与 OpenUtau 之间传递音符
 
@@ -58,7 +58,7 @@ OpenUtau DAW 把歌声合成编辑器 OpenUtau 直接嵌入 Cubase 的插件窗�
 - **Cubase → OpenUtau：** 把 MIDI 片段从 Cubase 工程窗口拖到 OpenUtau 窗口中目标音轨和小节上。
 - **OpenUtau → Cubase：** 在 OpenUtau 中按住一个片段，把它**拖出插件窗口边缘**，松开在 Cubase 音轨的**空白处**。
 
-![MIDI 从 Cubase 到 OpenUtau 再拖回](media/04.gif)
+![MIDI 从 Cubase 到 OpenUtau 再拖回](media/en/04.gif)
 
 > 如果 Cubase 把片段放到了新音轨上：*Edit → Preferences → MIDI → MIDI File* → 开启 **“Import Dropped File as Single Part”**。
 
@@ -94,7 +94,7 @@ OpenUtau DAW 把歌声合成编辑器 OpenUtau 直接嵌入 Cubase 的插件窗�
 
 工作方式与 VOCALOID 相同。
 
-![OpenUtau DAW Bridge](media/10.gif)
+![OpenUtau DAW Bridge](media/en/10.gif)
 
 ## 多个声部
 
@@ -103,11 +103,11 @@ OpenUtau DAW 把歌声合成编辑器 OpenUtau 直接嵌入 Cubase 的插件窗�
 - 在 Cubase 中新建 “OpenUtau DAW” 音轨 → OpenUtau 中出现一条新的空音轨。
 - 在 OpenUtau 中点击 **“+”** → **Cubase 中也会**新建音轨。
 
-![OpenUtau 中的“+”在 Cubase 中创建音轨](media/11.gif)
+![OpenUtau 中的“+”在 Cubase 中创建音轨](media/en/11.gif)
 
 - Cubase 音轨的**名称和颜色**会同步到 OpenUtau。
 
-![Cubase 音轨的颜色同步到 OpenUtau](media/13.gif)
+![Cubase 音轨的颜色同步到 OpenUtau](media/en/13.gif)
 
 ### ⚙ 如果不希望“+”在 Cubase 中创建音轨
 

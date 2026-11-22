@@ -7,7 +7,7 @@
 > [!NOTE]
 > Bu kılavuz makine çevirisiyle hazırlandı: yazar Türkçe bilmiyor. Düzeltmeler [Issues](https://github.com/BoBeR76/OpenUtau-DAW/issues) bölümünde memnuniyetle karşılanır.
 
-OpenUtau DAW, şarkı sentezi düzenleyicisi OpenUtau'yu doğrudan Cubase eklenti penceresine yerleştirir. Burada eklentinin eklediği özellikler anlatılır; OpenUtau'nun kendisi her zamanki gibi çalışır. *(Animasyonlarda Rusça arayüz görünür.)*
+OpenUtau DAW, şarkı sentezi düzenleyicisi OpenUtau'yu doğrudan Cubase eklenti penceresine yerleştirir. Burada eklentinin eklediği özellikler anlatılır; OpenUtau'nun kendisi her zamanki gibi çalışır.
 
 ## Kurulum
 
@@ -30,7 +30,7 @@ Kurulanlar: **OpenUtau DAW** eklentisi (VST3 ve CLAP), **OpenUtau DAW Bridge** t
 2. **OpenUtau doğrudan eklenti penceresinde açılır** ve bu eklenti için boş bir parça kendiliğinden oluşturulur.
 3. Bir şarkıcı seçin ve yazmaya başlayın.
 
-![OpenUtau DAW parçası ekleme](media/01.gif)
+![OpenUtau DAW parçası ekleme](media/en/01.gif)
 
 > Eklenti listede yoksa: *Studio → VST Plug-in Manager → yeniden tara*.
 
@@ -49,7 +49,7 @@ Eklenti penceresinde OpenUtau'nun üstündeki şerit:
 | **MIDI eşitleme** | Çalma sırasında notaları Cubase'den alır (aşağıya bakın) |
 | **⚙** | Eklenti ayarları |
 
-![Şarkıcı yok — kırmızı mesaj; şarkıcı seçildi — yeşil nokta](media/02.gif)
+![Şarkıcı yok — kırmızı mesaj; şarkıcı seçildi — yeşil nokta](media/en/02.gif)
 
 ## Cubase ile OpenUtau arasında notalar
 
@@ -58,7 +58,7 @@ Eklenti penceresinde OpenUtau'nun üstündeki şerit:
 - **Cubase → OpenUtau:** Cubase proje penceresinden bir MIDI parçasını OpenUtau penceresine, istediğiniz parçaya ve ölçüye sürükleyin.
 - **OpenUtau → Cubase:** OpenUtau'da bir bölümü tutun, **eklenti penceresinin kenarının dışına** sürükleyin ve bir Cubase parçasının **boş bir yerine** bırakın.
 
-![Cubase'den OpenUtau'ya ve geri MIDI](media/04.gif)
+![Cubase'den OpenUtau'ya ve geri MIDI](media/en/04.gif)
 
 > Cubase bölümü yeni bir parçaya koyarsa: *Edit → Preferences → MIDI → MIDI File* → **“Import Dropped File as Single Part”** seçeneğini açın.
 
@@ -94,7 +94,7 @@ Basılan notalar, Cubase düzenleyicisinde olduğu gibi OpenUtau piyano rulosund
 
 Köprü VOCALOID'dekiyle aynı şekilde çalışır.
 
-![OpenUtau DAW Bridge](media/10.gif)
+![OpenUtau DAW Bridge](media/en/10.gif)
 
 ## Birden fazla ses
 
@@ -103,11 +103,11 @@ Köprü VOCALOID'dekiyle aynı şekilde çalışır.
 - Cubase'de yeni “OpenUtau DAW” parçası → OpenUtau'da yeni boş parça.
 - OpenUtau'da **“+”** → **Cubase'de de** yeni parça.
 
-![OpenUtau'daki “+” Cubase'de parça oluşturur](media/11.gif)
+![OpenUtau'daki “+” Cubase'de parça oluşturur](media/en/11.gif)
 
 - Cubase parçasının **adı ve rengi** OpenUtau'ya aktarılır.
 
-![Cubase parçasının rengi OpenUtau'ya geçer](media/13.gif)
+![Cubase parçasının rengi OpenUtau'ya geçer](media/en/13.gif)
 
 ### ⚙ “+” Cubase'de parça oluşturmasın istiyorsanız
 

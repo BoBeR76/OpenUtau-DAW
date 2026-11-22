@@ -7,7 +7,7 @@
 > [!NOTE]
 > 이 설명서는 기계 번역으로 작성되었습니다. 작성자는 한국어를 하지 못합니다. 어색한 부분은 [Issues](https://github.com/BoBeR76/OpenUtau-DAW/issues)에서 알려 주세요.
 
-OpenUtau DAW는 노래 합성 편집기 OpenUtau를 Cubase 플러그인 창 안에 바로 넣어 줍니다. 여기서는 플러그인이 추가하는 기능을 설명합니다. OpenUtau 자체는 평소대로 동작합니다. *(애니메이션은 러시아어 화면입니다.)*
+OpenUtau DAW는 노래 합성 편집기 OpenUtau를 Cubase 플러그인 창 안에 바로 넣어 줍니다. 여기서는 플러그인이 추가하는 기능을 설명합니다. OpenUtau 자체는 평소대로 동작합니다.
 
 ## 설치
 
@@ -30,7 +30,7 @@ OpenUtau DAW는 노래 합성 편집기 OpenUtau를 Cubase 플러그인 창 안�
 2. **OpenUtau가 플러그인 창 안에서 바로 열리고**, 이 플러그인용 빈 트랙이 자동으로 만들어집니다.
 3. 가수를 고르면 바로 작업할 수 있습니다.
 
-![OpenUtau DAW 트랙 추가](media/01.gif)
+![OpenUtau DAW 트랙 추가](media/en/01.gif)
 
 > 목록에 플러그인이 없으면: *Studio → VST Plug-in Manager → 다시 검색*.
 
@@ -49,7 +49,7 @@ OpenUtau DAW는 노래 합성 편집기 OpenUtau를 Cubase 플러그인 창 안�
 | **MIDI 동기화** | 재생 중 Cubase의 음표를 가져옵니다(아래 참고) |
 | **⚙** | 플러그인 설정 |
 
-![가수 없음 — 빨간 메시지, 가수 선택 — 초록 점](media/02.gif)
+![가수 없음 — 빨간 메시지, 가수 선택 — 초록 점](media/en/02.gif)
 
 ## Cubase와 OpenUtau 사이의 음표
 
@@ -58,7 +58,7 @@ OpenUtau DAW는 노래 합성 편집기 OpenUtau를 Cubase 플러그인 창 안�
 - **Cubase → OpenUtau:** Cubase 프로젝트 창의 MIDI 파트를 OpenUtau 창의 원하는 트랙과 마디로 끌어다 놓습니다.
 - **OpenUtau → Cubase:** OpenUtau에서 파트를 잡고 **플러그인 창 가장자리 밖으로** 끌어낸 뒤, Cubase 트랙의 **빈 곳**에 놓습니다.
 
-![MIDI를 Cubase에서 OpenUtau로, 그리고 다시](media/04.gif)
+![MIDI를 Cubase에서 OpenUtau로, 그리고 다시](media/en/04.gif)
 
 > Cubase가 파트를 새 트랙에 놓는다면: *Edit → Preferences → MIDI → MIDI File* → **“Import Dropped File as Single Part”**를 켭니다.
 
@@ -94,7 +94,7 @@ OpenUtau DAW는 노래 합성 편집기 OpenUtau를 Cubase 플러그인 창 안�
 
 VOCALOID와 같은 방식으로 동작합니다.
 
-![OpenUtau DAW Bridge](media/10.gif)
+![OpenUtau DAW Bridge](media/en/10.gif)
 
 ## 여러 목소리
 
@@ -103,11 +103,11 @@ VOCALOID와 같은 방식으로 동작합니다.
 - Cubase에 새 “OpenUtau DAW” 트랙 → OpenUtau에 새 빈 트랙.
 - OpenUtau의 **“+”** → **Cubase에도** 새 트랙.
 
-![OpenUtau의 “+”가 Cubase에 트랙을 만듦](media/11.gif)
+![OpenUtau의 “+”가 Cubase에 트랙을 만듦](media/en/11.gif)
 
 - Cubase 트랙의 **이름과 색**이 OpenUtau에 반영됩니다.
 
-![Cubase 트랙 색이 OpenUtau에 반영됨](media/13.gif)
+![Cubase 트랙 색이 OpenUtau에 반영됨](media/en/13.gif)
 
 ### ⚙ “+”로 Cubase 트랙을 만들지 않으려면
 

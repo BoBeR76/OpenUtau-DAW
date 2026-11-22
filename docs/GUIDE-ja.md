@@ -7,7 +7,7 @@
 > [!NOTE]
 > このガイドは機械翻訳で作成しました。作者は日本語を話せません。不自然な箇所があれば [Issues](https://github.com/BoBeR76/OpenUtau-DAW/issues) で修正をお知らせください。
 
-OpenUtau DAW は、歌声合成エディター OpenUtau を Cubase のプラグインウィンドウの中に組み込みます。ここではプラグインが追加する機能を説明します。OpenUtau 自体の使い方は通常どおりです。*（アニメーションはロシア語の画面です。）*
+OpenUtau DAW は、歌声合成エディター OpenUtau を Cubase のプラグインウィンドウの中に組み込みます。ここではプラグインが追加する機能を説明します。OpenUtau 自体の使い方は通常どおりです。
 
 ## インストール
 
@@ -30,7 +30,7 @@ OpenUtau DAW は、歌声合成エディター OpenUtau を Cubase のプラグ�
 2. **OpenUtau がプラグインウィンドウの中に開き**、このプラグイン用の空のトラックが自動で作られます。
 3. 歌手を選べば、すぐに書き始められます。
 
-![OpenUtau DAW トラックの追加](media/01.gif)
+![OpenUtau DAW トラックの追加](media/en/01.gif)
 
 > プラグインが一覧にない場合: *Studio → VST Plug-in Manager → 再スキャン*。
 
@@ -49,7 +49,7 @@ OpenUtau DAW は、歌声合成エディター OpenUtau を Cubase のプラグ�
 | **MIDI 同期** | 再生中に Cubase のノートを取り込みます（下記参照） |
 | **⚙** | プラグインの設定 |
 
-![歌手なし — 赤いメッセージ、歌手を選択 — 緑の丸](media/02.gif)
+![歌手なし — 赤いメッセージ、歌手を選択 — 緑の丸](media/en/02.gif)
 
 ## Cubase と OpenUtau の間でノートをやり取りする
 
@@ -58,7 +58,7 @@ OpenUtau DAW は、歌声合成エディター OpenUtau を Cubase のプラグ�
 - **Cubase → OpenUtau:** Cubase のプロジェクトウィンドウから MIDI パートを OpenUtau のウィンドウへ、目的のトラックと小節にドラッグします。
 - **OpenUtau → Cubase:** OpenUtau のパートをつかみ、**プラグインウィンドウの外へ**ドラッグして、Cubase のトラックの**空いている場所**で離します。
 
-![MIDI を Cubase から OpenUtau へ、そして戻す](media/04.gif)
+![MIDI を Cubase から OpenUtau へ、そして戻す](media/en/04.gif)
 
 > Cubase がパートを新しいトラックに置いてしまう場合: *Edit → Preferences → MIDI → MIDI File* →「**Import Dropped File as Single Part**」をオンにします。
 
@@ -94,7 +94,7 @@ OpenUtau DAW は、歌声合成エディター OpenUtau を Cubase のプラグ�
 
 VOCALOID と同じ仕組みです。
 
-![OpenUtau DAW Bridge](media/10.gif)
+![OpenUtau DAW Bridge](media/en/10.gif)
 
 ## 複数の声
 
@@ -103,11 +103,11 @@ VOCALOID と同じ仕組みです。
 - Cubase で「OpenUtau DAW」トラックを追加 → OpenUtau に空のトラックが追加されます。
 - OpenUtau の **「+」** → **Cubase にも**トラックが追加されます。
 
-![OpenUtau の「+」で Cubase にトラックができる](media/11.gif)
+![OpenUtau の「+」で Cubase にトラックができる](media/en/11.gif)
 
 - Cubase のトラックの**名前と色**が OpenUtau に反映されます。
 
-![Cubase のトラックの色が OpenUtau に反映される](media/13.gif)
+![Cubase のトラックの色が OpenUtau に反映される](media/en/13.gif)
 
 ### ⚙「+」で Cubase にトラックを作らない場合
 

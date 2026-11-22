@@ -7,7 +7,7 @@
 > [!NOTE]
 > Цю інструкцію перекладено машинним перекладачем: автор не володіє українською. Якщо щось звучить дивно — виправлення вітаються в [Issues](https://github.com/BoBeR76/OpenUtau-DAW/issues).
 
-OpenUtau DAW вбудовує редактор співу OpenUtau просто у вікно плагіна Cubase. Тут — те, що додає плагін; сам OpenUtau працює як звичайно. *(На анімаціях — російський інтерфейс.)*
+OpenUtau DAW вбудовує редактор співу OpenUtau просто у вікно плагіна Cubase. Тут — те, що додає плагін; сам OpenUtau працює як звичайно.
 
 ## Встановлення
 
@@ -30,7 +30,7 @@ OpenUtau DAW вбудовує редактор співу OpenUtau просто 
 2. **OpenUtau відкриється просто у вікні плагіна**, і в ньому сама створиться порожня доріжка для цього плагіна.
 3. Виберіть співака — і можна писати.
 
-![Додавання доріжки OpenUtau DAW](media/01.gif)
+![Додавання доріжки OpenUtau DAW](media/en/01.gif)
 
 > Якщо плагіна немає в списку: *Studio → VST Plug-in Manager → пересканувати*.
 
@@ -49,7 +49,7 @@ OpenUtau DAW вбудовує редактор співу OpenUtau просто 
 | **Синхр. MIDI** | Перенесення нот із Cubase під час відтворення (див. нижче) |
 | **⚙** | Налаштування плагіна |
 
-![Немає співака — червоний напис; співака вибрано — зелена крапка](media/02.gif)
+![Немає співака — червоний напис; співака вибрано — зелена крапка](media/en/02.gif)
 
 ## Ноти з Cubase в OpenUtau і назад
 
@@ -58,7 +58,7 @@ OpenUtau DAW вбудовує редактор співу OpenUtau просто 
 - **Cubase → OpenUtau:** перетягніть MIDI-партію з вікна проєкту Cubase у вікно OpenUtau — на потрібну доріжку й такт.
 - **OpenUtau → Cubase:** затисніть партію в OpenUtau, витягніть її **за край вікна плагіна** й відпустіть на **порожньому місці** доріжки Cubase.
 
-![MIDI з Cubase в OpenUtau і назад](media/04.gif)
+![MIDI з Cubase в OpenUtau і назад](media/en/04.gif)
 
 > Якщо Cubase кладе партію на нову доріжку: *Edit → Preferences → MIDI → MIDI File* → увімкніть **«Import Dropped File as Single Part»**.
 
@@ -94,7 +94,7 @@ OpenUtau DAW вбудовує редактор співу OpenUtau просто 
 
 Міст працює так само, як у VOCALOID.
 
-![Міст OpenUtau DAW Bridge](media/10.gif)
+![Міст OpenUtau DAW Bridge](media/en/10.gif)
 
 ## Кілька голосів
 
@@ -103,11 +103,11 @@ OpenUtau DAW вбудовує редактор співу OpenUtau просто 
 - Нова доріжка «OpenUtau DAW» у Cubase → нова порожня доріжка в OpenUtau.
 - **«+»** в OpenUtau → нова доріжка **і в Cubase**.
 
-![«+» в OpenUtau створює доріжку в Cubase](media/11.gif)
+![«+» в OpenUtau створює доріжку в Cubase](media/en/11.gif)
 
 - **Назва й колір** доріжки Cubase переносяться в OpenUtau.
 
-![Колір доріжки Cubase переходить в OpenUtau](media/13.gif)
+![Колір доріжки Cubase переходить в OpenUtau](media/en/13.gif)
 
 ### ⚙ Якщо «+» не має створювати доріжку в Cubase
 

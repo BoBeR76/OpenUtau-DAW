@@ -7,7 +7,7 @@
 > [!NOTE]
 > Ta instrukcja została przetłumaczona tłumaczem maszynowym: autor nie zna języka polskiego. Poprawki mile widziane w [Issues](https://github.com/BoBeR76/OpenUtau-DAW/issues).
 
-OpenUtau DAW osadza edytor śpiewu OpenUtau bezpośrednio w oknie wtyczki Cubase. Tu opisano to, co dodaje wtyczka; sam OpenUtau działa jak zwykle. *(Animacje pokazują interfejs po rosyjsku.)*
+OpenUtau DAW osadza edytor śpiewu OpenUtau bezpośrednio w oknie wtyczki Cubase. Tu opisano to, co dodaje wtyczka; sam OpenUtau działa jak zwykle.
 
 ## Instalacja
 
@@ -30,7 +30,7 @@ Instalowane są: wtyczka **OpenUtau DAW** (VST3 i CLAP), most tempa **OpenUtau D
 2. **OpenUtau otworzy się bezpośrednio w oknie wtyczki**, z pustą ścieżką już utworzoną dla tej wtyczki.
 3. Wybierz śpiewaka i zaczynaj.
 
-![Dodawanie ścieżki OpenUtau DAW](media/01.gif)
+![Dodawanie ścieżki OpenUtau DAW](media/en/01.gif)
 
 > Jeśli wtyczki nie ma na liście: *Studio → VST Plug-in Manager → skanuj ponownie*.
 
@@ -49,7 +49,7 @@ Pasek nad OpenUtau w oknie wtyczki:
 | **Synch. MIDI** | Pobiera nuty z Cubase podczas odtwarzania (zob. niżej) |
 | **⚙** | Ustawienia wtyczki |
 
-![Brak śpiewaka — czerwony komunikat; śpiewak wybrany — zielona kropka](media/02.gif)
+![Brak śpiewaka — czerwony komunikat; śpiewak wybrany — zielona kropka](media/en/02.gif)
 
 ## Nuty między Cubase a OpenUtau
 
@@ -58,7 +58,7 @@ Pasek nad OpenUtau w oknie wtyczki:
 - **Cubase → OpenUtau:** przeciągnij partię MIDI z okna projektu Cubase do okna OpenUtau, na wybraną ścieżkę i takt.
 - **OpenUtau → Cubase:** przytrzymaj partię w OpenUtau, przeciągnij ją **poza krawędź okna wtyczki** i upuść w **pustym miejscu** ścieżki Cubase.
 
-![MIDI z Cubase do OpenUtau i z powrotem](media/04.gif)
+![MIDI z Cubase do OpenUtau i z powrotem](media/en/04.gif)
 
 > Jeśli Cubase kładzie partię na nowej ścieżce: *Edit → Preferences → MIDI → MIDI File* → włącz **„Import Dropped File as Single Part”**.
 
@@ -94,7 +94,7 @@ Jeśli **tempo zmienia się w trakcie utworu**, dodaj most — wtedy OpenUtau zn
 
 Most działa tak samo jak w VOCALOID.
 
-![OpenUtau DAW Bridge](media/10.gif)
+![OpenUtau DAW Bridge](media/en/10.gif)
 
 ## Kilka głosów
 
@@ -103,11 +103,11 @@ Most działa tak samo jak w VOCALOID.
 - Nowa ścieżka „OpenUtau DAW” w Cubase → nowa pusta ścieżka w OpenUtau.
 - **„+”** w OpenUtau → nowa ścieżka **także w Cubase**.
 
-![„+” w OpenUtau tworzy ścieżkę w Cubase](media/11.gif)
+![„+” w OpenUtau tworzy ścieżkę w Cubase](media/en/11.gif)
 
 - **Nazwa i kolor** ścieżki Cubase przechodzą do OpenUtau.
 
-![Kolor ścieżki Cubase przechodzi do OpenUtau](media/13.gif)
+![Kolor ścieżki Cubase przechodzi do OpenUtau](media/en/13.gif)
 
 ### ⚙ Jeśli „+” nie ma tworzyć ścieżki w Cubase
 

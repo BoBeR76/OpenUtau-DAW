@@ -7,7 +7,7 @@
 > [!NOTE]
 > Diese Anleitung wurde maschinell übersetzt: Der Autor spricht kein Deutsch. Korrekturen sind in den [Issues](https://github.com/BoBeR76/OpenUtau-DAW/issues) willkommen.
 
-OpenUtau DAW bettet den Gesangseditor OpenUtau direkt in das Plug-in-Fenster von Cubase ein. Hier steht, was das Plug-in hinzufügt; OpenUtau selbst funktioniert wie gewohnt. *(Die Animationen zeigen die russische Oberfläche.)*
+OpenUtau DAW bettet den Gesangseditor OpenUtau direkt in das Plug-in-Fenster von Cubase ein. Hier steht, was das Plug-in hinzufügt; OpenUtau selbst funktioniert wie gewohnt.
 
 ## Installation
 
@@ -30,7 +30,7 @@ Installiert werden das Plug-in **OpenUtau DAW** (VST3 und CLAP), die Tempo-Brüc
 2. **OpenUtau öffnet sich direkt im Plug-in-Fenster**, und darin wird automatisch eine leere Spur für dieses Plug-in angelegt.
 3. Sänger wählen – und loslegen.
 
-![Hinzufügen einer OpenUtau-DAW-Spur](media/01.gif)
+![Hinzufügen einer OpenUtau-DAW-Spur](media/en/01.gif)
 
 > Wenn das Plug-in nicht in der Liste steht: *Studio → VST Plug-in Manager → neu scannen*.
 
@@ -49,7 +49,7 @@ Die Leiste über OpenUtau im Plug-in-Fenster:
 | **MIDI-Sync** | Übernimmt beim Abspielen Noten aus Cubase (siehe unten) |
 | **⚙** | Plug-in-Einstellungen |
 
-![Kein Sänger – rote Meldung; Sänger gewählt – grüner Punkt](media/02.gif)
+![Kein Sänger – rote Meldung; Sänger gewählt – grüner Punkt](media/en/02.gif)
 
 ## Noten zwischen Cubase und OpenUtau
 
@@ -58,7 +58,7 @@ Die Leiste über OpenUtau im Plug-in-Fenster:
 - **Cubase → OpenUtau:** Ziehen Sie einen MIDI-Part aus dem Cubase-Projektfenster in das OpenUtau-Fenster – auf die gewünschte Spur und den Takt.
 - **OpenUtau → Cubase:** Halten Sie einen Part in OpenUtau fest, ziehen Sie ihn **über den Rand des Plug-in-Fensters** hinaus und legen Sie ihn an einer **leeren Stelle** einer Cubase-Spur ab.
 
-![MIDI von Cubase nach OpenUtau und zurück](media/04.gif)
+![MIDI von Cubase nach OpenUtau und zurück](media/en/04.gif)
 
 > Wenn Cubase den Part auf eine neue Spur legt: *Bearbeiten → Programmeinstellungen → MIDI → MIDI-Datei* → **„Abgelegte Datei als einzelnen Part importieren“** einschalten.
 
@@ -94,7 +94,7 @@ Wenn sich das **Tempo im Lied ändert**, fügen Sie die Brücke hinzu – dann k
 
 Die Brücke funktioniert genauso wie bei VOCALOID.
 
-![OpenUtau DAW Bridge](media/10.gif)
+![OpenUtau DAW Bridge](media/en/10.gif)
 
 ## Mehrere Stimmen
 
@@ -103,11 +103,11 @@ Die Brücke funktioniert genauso wie bei VOCALOID.
 - Neue „OpenUtau DAW“-Spur in Cubase → neue leere Spur in OpenUtau.
 - **„+“** in OpenUtau → neue Spur **auch in Cubase**.
 
-![„+“ in OpenUtau legt eine Cubase-Spur an](media/11.gif)
+![„+“ in OpenUtau legt eine Cubase-Spur an](media/en/11.gif)
 
 - **Name und Farbe** der Cubase-Spur werden in OpenUtau übernommen.
 
-![Die Farbe der Cubase-Spur erscheint in OpenUtau](media/13.gif)
+![Die Farbe der Cubase-Spur erscheint in OpenUtau](media/en/13.gif)
 
 ### ⚙ Wenn „+“ keine Cubase-Spur anlegen soll
 

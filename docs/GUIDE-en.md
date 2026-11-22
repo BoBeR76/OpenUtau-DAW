@@ -7,7 +7,7 @@
 > [!NOTE]
 > This guide was translated with a machine translator: the author is a Russian speaker. If something reads oddly, corrections are welcome in [Issues](https://github.com/BoBeR76/OpenUtau-DAW/issues).
 
-OpenUtau DAW puts the OpenUtau singing editor right inside a Cubase plug-in window. This guide covers what the plug-in adds; OpenUtau itself works as usual. *(The animations show the Russian UI.)*
+OpenUtau DAW puts the OpenUtau singing editor right inside a Cubase plug-in window. This guide covers what the plug-in adds; OpenUtau itself works as usual.
 
 ## Contents
 
@@ -46,7 +46,7 @@ Installed: the **OpenUtau DAW** plug-in (VST3 and CLAP), the **OpenUtau DAW Brid
 2. **OpenUtau opens right inside the plug-in window**, with an empty track already created for this plug-in.
 3. Choose a singer and start writing.
 
-![Adding an OpenUtau DAW track](media/01.gif)
+![Adding an OpenUtau DAW track](media/en/01.gif)
 
 > If the plug-in is not in the list: *Studio → VST Plug-in Manager → rescan*.
 
@@ -65,7 +65,7 @@ The strip above OpenUtau in the plug-in window:
 | **MIDI sync** | Takes notes from Cubase while playing ([below](#sync-while-playing)) |
 | **⚙** | Plug-in settings |
 
-![No singer — red message; singer chosen — green dot](media/02.gif)
+![No singer — red message; singer chosen — green dot](media/en/02.gif)
 
 ## Notes between Cubase and OpenUtau
 
@@ -74,7 +74,7 @@ The strip above OpenUtau in the plug-in window:
 - **Cubase → OpenUtau:** drag a MIDI part from the Cubase project window into the OpenUtau window, onto the track and bar you want.
 - **OpenUtau → Cubase:** hold a part in OpenUtau, drag it **out over the edge of the plug-in window** and drop it on an **empty spot** of a Cubase track.
 
-![MIDI from Cubase to OpenUtau and back](media/04.gif)
+![MIDI from Cubase to OpenUtau and back](media/en/04.gif)
 
 > If Cubase puts the part on a new track: *Edit → Preferences → MIDI → MIDI File* → turn on **"Import Dropped File as Single Part"**.
 
@@ -110,7 +110,7 @@ If the **tempo changes during the song**, add the bridge so OpenUtau knows the w
 
 It works the same way as with VOCALOID.
 
-![OpenUtau DAW Bridge](media/10.gif)
+![OpenUtau DAW Bridge](media/en/10.gif)
 
 ## Several voices
 
@@ -119,11 +119,11 @@ It works the same way as with VOCALOID.
 - A new "OpenUtau DAW" track in Cubase → a new empty track in OpenUtau.
 - **"+"** in OpenUtau → a new track **in Cubase** too.
 
-![“+” in OpenUtau creates a Cubase track](media/11.gif)
+![“+” in OpenUtau creates a Cubase track](media/en/11.gif)
 
 - The **name and colour** of the Cubase track carry over to OpenUtau.
 
-![Cubase track colour follows into OpenUtau](media/13.gif)
+![Cubase track colour follows into OpenUtau](media/en/13.gif)
 
 ### ⚙ If "+" should not create a Cubase track
 

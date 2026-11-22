@@ -7,7 +7,7 @@
 > [!NOTE]
 > Tento návod byl přeložen strojovým překladačem: autor neumí česky. Opravy jsou vítány v [Issues](https://github.com/BoBeR76/OpenUtau-DAW/issues).
 
-OpenUtau DAW vkládá editor zpěvu OpenUtau přímo do okna pluginu v Cubase. Zde je popsáno, co plugin přidává; samotný OpenUtau funguje jako obvykle. *(Animace ukazují ruské rozhraní. Nabídky OpenUtau nejsou do češtiny přeloženy, proto jsou uvedeny anglicky.)*
+OpenUtau DAW vkládá editor zpěvu OpenUtau přímo do okna pluginu v Cubase. Zde je popsáno, co plugin přidává; samotný OpenUtau funguje jako obvykle. *(Nabídky OpenUtau nejsou do češtiny přeloženy, proto jsou uvedeny anglicky.)*
 
 ## Instalace
 
@@ -30,7 +30,7 @@ Nainstaluje se plugin **OpenUtau DAW** (VST3 a CLAP), most tempa **OpenUtau DAW 
 2. **OpenUtau se otevře přímo v okně pluginu** a už v něm bude prázdná stopa pro tento plugin.
 3. Vyberte zpěváka a můžete psát.
 
-![Přidání stopy OpenUtau DAW](media/01.gif)
+![Přidání stopy OpenUtau DAW](media/en/01.gif)
 
 > Pokud plugin v seznamu není: *Studio → VST Plug-in Manager → znovu prohledat*.
 
@@ -49,7 +49,7 @@ Pruh nad OpenUtau v okně pluginu:
 | **Synch. MIDI** | Přebírá noty z Cubase při přehrávání (viz níže) |
 | **⚙** | Nastavení pluginu |
 
-![Bez zpěváka — červená zpráva; zpěvák vybrán — zelená tečka](media/02.gif)
+![Bez zpěváka — červená zpráva; zpěvák vybrán — zelená tečka](media/en/02.gif)
 
 ## Noty mezi Cubase a OpenUtau
 
@@ -58,7 +58,7 @@ Pruh nad OpenUtau v okně pluginu:
 - **Cubase → OpenUtau:** přetáhněte MIDI part z okna projektu Cubase do okna OpenUtau, na požadovanou stopu a takt.
 - **OpenUtau → Cubase:** podržte part v OpenUtau, přetáhněte ho **za okraj okna pluginu** a pusťte na **prázdné místo** stopy v Cubase.
 
-![MIDI z Cubase do OpenUtau a zpět](media/04.gif)
+![MIDI z Cubase do OpenUtau a zpět](media/en/04.gif)
 
 > Pokud Cubase dá part na novou stopu: *Edit → Preferences → MIDI → MIDI File* → zapněte **„Import Dropped File as Single Part“**.
 
@@ -94,7 +94,7 @@ Pokud se **tempo během písně mění**, přidejte most — OpenUtau pak zná c
 
 Most funguje stejně jako u VOCALOIDu.
 
-![OpenUtau DAW Bridge](media/10.gif)
+![OpenUtau DAW Bridge](media/en/10.gif)
 
 ## Více hlasů
 
@@ -103,11 +103,11 @@ Most funguje stejně jako u VOCALOIDu.
 - Nová stopa „OpenUtau DAW“ v Cubase → nová prázdná stopa v OpenUtau.
 - **„+“** v OpenUtau → nová stopa **i v Cubase**.
 
-![„+“ v OpenUtau vytvoří stopu v Cubase](media/11.gif)
+![„+“ v OpenUtau vytvoří stopu v Cubase](media/en/11.gif)
 
 - **Název a barva** stopy Cubase se přenesou do OpenUtau.
 
-![Barva stopy Cubase přejde do OpenUtau](media/13.gif)
+![Barva stopy Cubase přejde do OpenUtau](media/en/13.gif)
 
 ### ⚙ Pokud „+“ nemá vytvářet stopu v Cubase
 

@@ -7,7 +7,7 @@
 > [!NOTE]
 > Ce guide a été traduit avec un traducteur automatique : l’auteur ne parle pas français. Les corrections sont les bienvenues dans les [Issues](https://github.com/BoBeR76/OpenUtau-DAW/issues).
 
-OpenUtau DAW intègre l'éditeur de chant OpenUtau directement dans la fenêtre du plugin de Cubase. Ce guide décrit ce qu'ajoute le plugin ; OpenUtau lui-même fonctionne comme d'habitude. *(Les animations montrent l'interface en russe.)*
+OpenUtau DAW intègre l'éditeur de chant OpenUtau directement dans la fenêtre du plugin de Cubase. Ce guide décrit ce qu'ajoute le plugin ; OpenUtau lui-même fonctionne comme d'habitude.
 
 ## Installation
 
@@ -30,7 +30,7 @@ Sont installés le plugin **OpenUtau DAW** (VST3 et CLAP), le pont de tempo **Op
 2. **OpenUtau s'ouvre directement dans la fenêtre du plugin**, avec une piste vide déjà créée pour ce plugin.
 3. Choisissez un chanteur, et c'est parti.
 
-![Ajout d'une piste OpenUtau DAW](media/01.gif)
+![Ajout d'une piste OpenUtau DAW](media/en/01.gif)
 
 > Si le plugin n'est pas dans la liste : *Studio → VST Plug-in Manager → relancer l'analyse*.
 
@@ -49,7 +49,7 @@ La bande au-dessus d'OpenUtau dans la fenêtre du plugin :
 | **Synchro MIDI** | Récupère les notes de Cubase pendant la lecture (voir plus bas) |
 | **⚙** | Réglages du plugin |
 
-![Pas de chanteur : message rouge ; chanteur choisi : point vert](media/02.gif)
+![Pas de chanteur : message rouge ; chanteur choisi : point vert](media/en/02.gif)
 
 ## Notes entre Cubase et OpenUtau
 
@@ -58,7 +58,7 @@ La bande au-dessus d'OpenUtau dans la fenêtre du plugin :
 - **Cubase → OpenUtau :** faites glisser un conteneur MIDI de la fenêtre de projet de Cubase vers la fenêtre d'OpenUtau, sur la piste et la mesure voulues.
 - **OpenUtau → Cubase :** maintenez une partie dans OpenUtau, faites-la glisser **au-delà du bord de la fenêtre du plugin** et déposez-la sur un **endroit vide** d'une piste Cubase.
 
-![MIDI de Cubase vers OpenUtau et retour](media/04.gif)
+![MIDI de Cubase vers OpenUtau et retour](media/en/04.gif)
 
 > Si Cubase place le conteneur sur une nouvelle piste : *Édition → Préférences → MIDI → Fichier MIDI* → activez **« Importer le fichier déposé comme conteneur unique »**.
 
@@ -94,7 +94,7 @@ Si **le tempo change au cours de la chanson**, ajoutez le pont : OpenUtau conna�
 
 Le pont fonctionne comme avec VOCALOID.
 
-![OpenUtau DAW Bridge](media/10.gif)
+![OpenUtau DAW Bridge](media/en/10.gif)
 
 ## Plusieurs voix
 
@@ -103,11 +103,11 @@ Le pont fonctionne comme avec VOCALOID.
 - Nouvelle piste « OpenUtau DAW » dans Cubase → nouvelle piste vide dans OpenUtau.
 - **« + »** dans OpenUtau → nouvelle piste **aussi dans Cubase**.
 
-![« + » dans OpenUtau crée une piste dans Cubase](media/11.gif)
+![« + » dans OpenUtau crée une piste dans Cubase](media/en/11.gif)
 
 - **Le nom et la couleur** de la piste Cubase sont repris dans OpenUtau.
 
-![La couleur de la piste Cubase passe dans OpenUtau](media/13.gif)
+![La couleur de la piste Cubase passe dans OpenUtau](media/en/13.gif)
 
 ### ⚙ Si « + » ne doit pas créer de piste dans Cubase
 

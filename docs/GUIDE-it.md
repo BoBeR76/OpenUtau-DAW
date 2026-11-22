@@ -7,7 +7,7 @@
 > [!NOTE]
 > Questa guida è stata tradotta con un traduttore automatico: l’autore non parla italiano. Le correzioni sono benvenute nelle [Issues](https://github.com/BoBeR76/OpenUtau-DAW/issues).
 
-OpenUtau DAW integra l'editor di canto OpenUtau direttamente nella finestra del plugin di Cubase. Qui trovi ciò che aggiunge il plugin; OpenUtau funziona come sempre. *(Le animazioni mostrano l'interfaccia in russo.)*
+OpenUtau DAW integra l'editor di canto OpenUtau direttamente nella finestra del plugin di Cubase. Qui trovi ciò che aggiunge il plugin; OpenUtau funziona come sempre.
 
 ## Installazione
 
@@ -30,7 +30,7 @@ Vengono installati il plugin **OpenUtau DAW** (VST3 e CLAP), il ponte del tempo 
 2. **OpenUtau si apre direttamente nella finestra del plugin**, con una traccia vuota già creata per questo plugin.
 3. Scegli un cantante e inizia a scrivere.
 
-![Aggiunta di una traccia OpenUtau DAW](media/01.gif)
+![Aggiunta di una traccia OpenUtau DAW](media/en/01.gif)
 
 > Se il plugin non è nell'elenco: *Studio → VST Plug-in Manager → ripeti la scansione*.
 
@@ -49,7 +49,7 @@ La striscia sopra OpenUtau nella finestra del plugin:
 | **Sinc. MIDI** | Prende le note da Cubase durante la riproduzione (vedi sotto) |
 | **⚙** | Impostazioni del plugin |
 
-![Nessun cantante: messaggio rosso; cantante scelto: punto verde](media/02.gif)
+![Nessun cantante: messaggio rosso; cantante scelto: punto verde](media/en/02.gif)
 
 ## Note tra Cubase e OpenUtau
 
@@ -58,7 +58,7 @@ La striscia sopra OpenUtau nella finestra del plugin:
 - **Cubase → OpenUtau:** trascina una parte MIDI dalla finestra progetto di Cubase nella finestra di OpenUtau, sulla traccia e sulla battuta volute.
 - **OpenUtau → Cubase:** tieni premuta una parte in OpenUtau, trascinala **oltre il bordo della finestra del plugin** e rilasciala in un **punto vuoto** di una traccia di Cubase.
 
-![MIDI da Cubase a OpenUtau e ritorno](media/04.gif)
+![MIDI da Cubase a OpenUtau e ritorno](media/en/04.gif)
 
 > Se Cubase mette la parte su una nuova traccia: *Modifica → Preferenze → MIDI → File MIDI* → attiva **«Importa file trascinato come parte singola»**.
 
@@ -94,7 +94,7 @@ Se **il tempo cambia durante il brano**, aggiungi il ponte: così OpenUtau conos
 
 Il ponte funziona come con VOCALOID.
 
-![OpenUtau DAW Bridge](media/10.gif)
+![OpenUtau DAW Bridge](media/en/10.gif)
 
 ## Più voci
 
@@ -103,11 +103,11 @@ Il ponte funziona come con VOCALOID.
 - Nuova traccia «OpenUtau DAW» in Cubase → nuova traccia vuota in OpenUtau.
 - **«+»** in OpenUtau → nuova traccia **anche in Cubase**.
 
-![«+» in OpenUtau crea una traccia in Cubase](media/11.gif)
+![«+» in OpenUtau crea una traccia in Cubase](media/en/11.gif)
 
 - **Nome e colore** della traccia di Cubase passano in OpenUtau.
 
-![Il colore della traccia di Cubase passa in OpenUtau](media/13.gif)
+![Il colore della traccia di Cubase passa in OpenUtau](media/en/13.gif)
 
 ### ⚙ Se «+» non deve creare una traccia in Cubase
 
